@@ -4,8 +4,11 @@
   "account": "OSMTaiwan",
   "locationSet": {"include": ["tw"]},
   "languageCodes": ["zh-tw"],
-  "order": 5,
-  "strings": {"community": "OpenStreetMap Taiwan"},
+  "order": 7,
+  "strings": {
+    "community": "OpenStreetMap Taiwan",
+    "communityID": "openstreetmaptaiwan"
+  },
   "contacts": [
     {
       "name": "Nobody 沒有人 (Public mail)",

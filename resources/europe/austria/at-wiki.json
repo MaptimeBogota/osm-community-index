@@ -1,0 +1,12 @@
+{
+  "id": "at-wiki",
+  "type": "wiki",
+  "account": "Austria",
+  "locationSet": {"include": ["at"]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap Austria",
+    "communityID": "openstreetmapaustria",
+    "description": "{community} Wiki page"
+  }
+}

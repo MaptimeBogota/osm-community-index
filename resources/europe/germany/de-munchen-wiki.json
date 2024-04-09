@@ -1,0 +1,12 @@
+{
+  "id": "de-munchen-wiki",
+  "type": "wiki",
+  "account": "M%C3%BCnchen",
+  "locationSet": {"include": [[11.57445, 48.13711]]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap München",
+    "communityID": "openstreetmapmunchen",
+    "description": "{community} Wiki page"
+  }
+}

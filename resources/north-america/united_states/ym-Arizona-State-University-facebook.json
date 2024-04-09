@@ -1,0 +1,12 @@
+{
+  "id": "ym-Arizona-State-University-facebook",
+  "type": "facebook",
+  "account": "YouthMappersASU",
+  "locationSet": {"include": [[-111.9343601, 33.4176835]]},
+  "languageCodes": ["en"],
+  "strings": {
+    "community": "YouthMappersASU",
+    "communityID": "youthmappersasu",
+    "description": "YouthMappers chapter at Arizona State University"
+  }
+}

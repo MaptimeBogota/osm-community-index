@@ -1,0 +1,11 @@
+{
+  "id": "tn-facebook-group",
+  "type": "facebook",
+  "locationSet": {"include": ["tn"]},
+  "strings": {
+    "community": "OpenStreetMap Tunisia",
+    "communityID": "openstreetmaptunisia",
+    "name": "{community} Facebook Group",
+    "url": "https://www.facebook.com/groups/47277958581"
+  }
+}

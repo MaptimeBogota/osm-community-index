@@ -1,0 +1,12 @@
+{
+  "id": "fj-facebook",
+  "type": "facebook",
+  "account": "OSM-Fiji-110457007776664",
+  "locationSet": {"include": ["fj"]},
+  "languageCodes": ["en"],
+  "order": 3,
+  "strings": {
+    "community": "OpenStreetMap Fiji",
+    "communityID": "openstreetmapfiji"
+  }
+}

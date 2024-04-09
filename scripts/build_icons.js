@@ -1,53 +1,57 @@
-// External
 import chalk from 'chalk';
 import fs from 'node:fs';
+import { icon } from '@fortawesome/fontawesome-svg-core';
 
-import fontawesome from '@fortawesome/fontawesome-svg-core';
 import {
-  faAt, faComments, faKeyboard, faLink, faUsers
+  faAt, faComment, faComments, faKeyboard, faLink, faNewspaper, faUsers
 } from '@fortawesome/free-solid-svg-icons';
+
 import {
-  faDiscord, faDiscourse, faFacebook, faGithub, faGitlab, faLinkedin,
-  faMeetup, faReddit, faSlack, faTelegram, faTwitter, faYoutube
+  faDiscord, faDiscourse, faLinkedin, faMastodon, faMeetup, faSlack,
+  faSquareFacebook, faSquareGithub, faSquareGitlab, faSquareReddit,
+  faSquareThreads, faSquareXTwitter, faSquareYoutube, faTelegram,
 } from '@fortawesome/free-brands-svg-icons';
 
-buildAll();
+const toBuild = {
+  discord: faDiscord,
+  discourse: faDiscourse,
+  facebook: faSquareFacebook,
+  forum: faComments,
+  github: faSquareGithub,
+  gitlab: faSquareGitlab,
+  group: faUsers,
+  irc: faKeyboard,
+  linkedin: faLinkedin,
+  mailinglist: faAt,
+  mastodon: faMastodon,
+  matrix: faComments,
+  meetup: faMeetup,
+  newsletter: faNewspaper,
+  reddit: faSquareReddit,
+  signal: faComment,
+  slack: faSlack,
+  telegram: faTelegram,
+  threads: faSquareThreads,
+  twitter: faSquareXTwitter,
+  url: faLink,
+  youtube: faSquareYoutube,
+  x: faSquareXTwitter,
+  zulip: faComments
+};
 
-function buildAll() {
-  const faIconMap = {
-    discord: faDiscord,
-    discourse: faDiscourse,
-    facebook: faFacebook,
-    forum: faComments,
-    github: faGithub,
-    gitlab: faGitlab,
-    group: faUsers,
-    irc: faKeyboard,
-    linkedin: faLinkedin,
-    mailinglist: faAt,
-    matrix: faComments,
-    meetup: faMeetup,
-    reddit: faReddit,
-    slack: faSlack,
-    telegram: faTelegram,
-    twitter: faTwitter,
-    url: faLink,
-    youtube: faYoutube
-  };
+const START = '🏗   ' + chalk.yellow('Building icons...');
+const END = '👍  ' + chalk.green('icons built');
 
-  const START = '🏗   ' + chalk.yellow('Building icons...');
-  const END = '👍  ' + chalk.green('icons built');
+console.log('');
+console.log(START);
+console.time(END);
 
-  console.log('');
-  console.log(START);
-  console.time(END);
+for (const [key, value] of Object.entries(toBuild)) {
+  const file = `dist/img/${key}.svg`;
+  console.log(chalk.yellow(file));
 
-  for (let key in faIconMap) {
-    const val = faIconMap[key];
-    const file = `dist/img/${key}.svg`;
-    console.log(chalk.yellow(file));
-    fs.writeFileSync(file, fontawesome.icon(val).html);
-  }
-
-  console.timeEnd(END);
+  // console.log( JSON.stringify(icon(value).html[0], null, 2) );
+  fs.writeFileSync(file, icon(value).html[0]);
 }
+
+console.timeEnd(END);

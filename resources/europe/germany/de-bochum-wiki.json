@@ -1,0 +1,12 @@
+{
+  "id": "de-bochum-wiki",
+  "type": "wiki",
+  "account": "Bochum",
+  "locationSet": {"include": [[7.21873, 51.48181]]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap Bochum",
+    "communityID": "openstreetmapbochum",
+    "description": "{community} Wiki page"
+  }
+}

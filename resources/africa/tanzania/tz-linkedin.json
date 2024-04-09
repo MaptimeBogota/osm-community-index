@@ -1,0 +1,11 @@
+{
+  "id": "tz-linkedin",
+  "type": "linkedin",
+  "account": "openmap-development-tanzania-omdtz",
+  "locationSet": {"include": ["tz"]},
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Tanzania",
+    "communityID": "openstreetmaptanzania"
+  }
+}

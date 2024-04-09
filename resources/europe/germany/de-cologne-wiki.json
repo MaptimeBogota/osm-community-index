@@ -1,0 +1,12 @@
+{
+  "id": "de-cologne-wiki",
+  "type": "wiki",
+  "account": "Cologne",
+  "locationSet": {"include": [[6.95903, 50.93836]]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap Cologne",
+    "communityID": "openstreetmapcologne",
+    "description": "{community} Wiki page"
+  }
+}

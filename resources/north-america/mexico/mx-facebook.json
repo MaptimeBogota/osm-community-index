@@ -5,6 +5,7 @@
   "languageCodes": ["es"],
   "strings": {
     "community": "OpenStreetMap Mexico",
-    "url": "https://facebook.com/groups/OSMMX"
+    "communityID": "openstreetmapmexico",
+    "url": "https://www.facebook.com/groups/OSMMX"
   }
 }

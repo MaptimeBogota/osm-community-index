@@ -1,0 +1,15 @@
+{
+  "id": "us-massachusetts-mailinglist",
+  "type": "mailinglist",
+  "account": "talk-us-massachusetts",
+  "locationSet": {"include": ["massachusetts.geojson"]},
+  "languageCodes": ["en"],
+  "order": -3,
+  "strings": {
+    "name": "Talk-us-massachusetts Mailing List",
+    "description": "Email mailing list for the Massachusetts OSM community"
+  },
+  "contacts": [
+    {"name": "Alan Bragg", "email": "alan.ruth.bragg@gmail.com"}
+  ]
+}

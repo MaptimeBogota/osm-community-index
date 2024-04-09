@@ -1,0 +1,13 @@
+{
+  "id": "nl-matrix",
+  "type": "matrix",
+  "account": "#osm-netherlands",
+  "locationSet": {"include": ["nl"]},
+  "languageCodes": ["nl"],
+  "order": 6,
+  "strings": {
+    "community": "OpenStreetMap Netherlands",
+    "communityID": "openstreetmapnetherlands",
+    "description": "All mappers are welcome!"
+  }
+}

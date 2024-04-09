@@ -4,8 +4,11 @@
   "account": "talk-tw",
   "locationSet": {"include": ["tw"]},
   "languageCodes": ["en", "zh-tw"],
-  "order": -3,
-  "strings": {"community": "OpenStreetMap Taiwan"},
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Taiwan",
+    "communityID": "openstreetmaptaiwan"
+  },
   "contacts": [
     {
       "name": "Nobody 沒有人 (Public email)",

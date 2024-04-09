@@ -1,0 +1,12 @@
+{
+  "id": "de-dresden-wiki",
+  "type": "wiki",
+  "account": "Dresden",
+  "locationSet": {"include": [[13.73721, 51.04933]]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap Dresden",
+    "communityID": "openstreetmapdresden",
+    "description": "{community} Wiki page"
+  }
+}

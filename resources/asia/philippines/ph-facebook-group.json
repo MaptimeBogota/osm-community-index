@@ -1,0 +1,16 @@
+{
+  "id": "ph-facebook-group",
+  "type": "facebook",
+  "locationSet": {"include": ["ph"]},
+  "languageCodes": ["en", "tl"],
+  "order": 1,
+  "strings": {
+    "community": "OpenStreetMap Philippines",
+    "communityID": "openstreetmapphilippines",
+    "name": "{community} Facebook Group",
+    "url": "https://www.facebook.com/groups/osmph"
+  },
+  "contacts": [
+    {"name": "OSM PH core team", "email": "osm.pilipinas@gmail.com"}
+  ]
+}

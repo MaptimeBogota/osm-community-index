@@ -1,0 +1,12 @@
+{
+  "id": "fr-montrouge-wiki",
+  "type": "wiki",
+  "account": "Montrouge",
+  "locationSet": {"include": [[2.31943, 48.81885]]},
+  "languageCodes": ["fr"],
+  "strings": {
+    "community": "OpenStreetMap Montrouge",
+    "communityID": "openstreetmapmontrouge",
+    "description": "{community} Wiki page"
+  }
+}

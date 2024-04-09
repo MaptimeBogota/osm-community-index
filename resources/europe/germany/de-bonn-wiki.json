@@ -1,0 +1,12 @@
+{
+  "id": "de-bonn-wiki",
+  "type": "wiki",
+  "account": "Bonn",
+  "locationSet": {"include": [[7.09972, 50.73585]]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap Bonn",
+    "communityID": "openstreetmapbonn",
+    "description": "{community} Wiki page"
+  }
+}

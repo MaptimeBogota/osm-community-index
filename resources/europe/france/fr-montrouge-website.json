@@ -1,0 +1,12 @@
+{
+  "id": "fr-montrouge-website",
+  "type": "osm",
+  "locationSet": {"include": [[2.31943, 48.81885]]},
+  "languageCodes": ["fr"],
+  "strings": {
+    "community": "OpenStreetMap Montrouge",
+    "communityID": "openstreetmapmontrouge",
+    "description": "OSM information for the local community in Montrouge",
+    "url": "https://osmontrouge.fr/about"
+  }
+}

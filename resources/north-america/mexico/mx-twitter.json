@@ -1,0 +1,11 @@
+{
+  "id": "mx-twitter",
+  "type": "twitter",
+  "account": "openstreetmapmx",
+  "locationSet": {"include": ["mx"]},
+  "languageCodes": ["es"],
+  "strings": {
+    "community": "OpenStreetMap Mexico",
+    "communityID": "openstreetmapmexico"
+  }
+}

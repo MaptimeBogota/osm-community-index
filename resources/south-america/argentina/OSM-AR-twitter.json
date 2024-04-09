@@ -1,11 +1,13 @@
 {
   "id": "OSM-AR-twitter",
   "type": "twitter",
-  "account": "OpenStreetMapAr",
+  "account": "OpenStreetMapAR",
   "locationSet": {"include": ["ar"]},
   "languageCodes": ["es"],
+  "order": 3,
   "strings": {
     "community": "OpenStreetMap Argentina",
+    "communityID": "openstreetmapargentina",
     "extendedDescription": "News from the local community and OpenStreetMap in general."
   },
   "contacts": [

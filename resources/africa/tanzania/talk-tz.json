@@ -4,5 +4,9 @@
   "account": "talk-tz",
   "locationSet": {"include": ["tz"]},
   "languageCodes": ["en"],
-  "strings": {"community": "OpenStreetMap Tanzania"}
+  "order": 3,
+  "strings": {
+    "community": "OpenStreetMap Tanzania",
+    "communityID": "openstreetmaptanzania"
+  }
 }

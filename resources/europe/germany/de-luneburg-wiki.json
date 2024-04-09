@@ -1,0 +1,12 @@
+{
+  "id": "de-luneburg-wiki",
+  "type": "wiki",
+  "account": "L%C3%BCneburg",
+  "locationSet": {"include": [[10.40692, 53.24871]]},
+  "languageCodes": ["de"],
+  "strings": {
+    "community": "OpenStreetMap Lüneburg",
+    "communityID": "openstreetmapluneburg",
+    "description": "{community} Wiki page"
+  }
+}

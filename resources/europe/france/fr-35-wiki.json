@@ -1,12 +1,13 @@
 {
   "id": "fr-35-wiki",
-  "type": "osm",
+  "type": "wiki",
+  "account": "Rennes",
   "locationSet": {"include": ["fr-35.geojson"]},
   "languageCodes": ["fr"],
   "order": 8,
   "strings": {
-    "name": "OpenStreetMap Rennes Wiki page",
-    "description": "Wiki page of Rennes OSM local group",
-    "url": "https://wiki.openstreetmap.org/wiki/Rennes"
+    "community": "OpenStreetMap Rennes",
+    "communityID": "openstreetmaprennes",
+    "description": "{community} Wiki page"
   }
 }

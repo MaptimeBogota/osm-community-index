@@ -1,0 +1,12 @@
+{
+  "id": "hu-wiki",
+  "type": "wiki",
+  "account": "Hungary",
+  "locationSet": {"include": ["hu"]},
+  "languageCodes": ["hu"],
+  "strings": {
+    "community": "OpenStreetMap Hungary",
+    "communityID": "openstreetmaphungary",
+    "description": "{community} Wiki page"
+  }
+}

@@ -1,11 +1,14 @@
 {
   "id": "OSM-AR-facebook",
   "type": "facebook",
-  "account": "OpenStreetMapArgentina",
+  "account": "OpenStreetMapAR",
   "locationSet": {"include": ["ar"]},
   "languageCodes": ["es"],
-  "order": 3,
-  "strings": {"community": "OpenStreetMap Argentina"},
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Argentina",
+    "communityID": "openstreetmapargentina"
+  },
   "contacts": [
     {
       "name": "OpenStreetMap Argentina",

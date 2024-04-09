@@ -1,0 +1,17 @@
+{
+  "id": "id-youtube",
+  "type": "youtube",
+  "account": "UCRqMbcsT9ummMvByc1BlsDQ",
+  "locationSet": {"include": ["id"]},
+  "languageCodes": ["id"],
+  "strings": {
+    "community": "OpenStreetMap Indonesia",
+    "communityID": "openstreetmapindonesia"
+  },
+  "contacts": [
+    {
+      "name": "OpenStreetMap Indonesia",
+      "email": "perkumpulan@openstreetmap.id"
+    }
+  ]
+}

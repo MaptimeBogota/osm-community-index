@@ -1,0 +1,16 @@
+{
+  "id": "hu-facebook-group",
+  "type": "facebook",
+  "locationSet": {"include": ["hu"]},
+  "languageCodes": ["hu"],
+  "order": 3,
+  "strings": {
+    "community": "OpenStreetMap Hungary",
+    "communityID": "openstreetmaphungary",
+    "name": "{community} Facebook Group",
+    "url": "https://www.facebook.com/groups/osm.hu"
+  },
+  "contacts": [
+    {"name": "Ferenc Veres", "email": "info@openstreetmap.hu"}
+  ]
+}

@@ -4,6 +4,7 @@
   "account": "talk-ca",
   "locationSet": {"include": ["ca"]},
   "languageCodes": ["en", "fr"],
+  "order": -1,
   "strings": {
     "community": "OpenStreetMap Canada",
     "communityID": "openstreetmapcanada"

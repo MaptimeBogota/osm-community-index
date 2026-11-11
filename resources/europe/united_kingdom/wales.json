@@ -1,0 +1,16 @@
+{
+  "id": "wales",
+  "type": "osm",
+  "locationSet": {"include": ["gb-wls"]},
+  "languageCodes": ["cy", "en"],
+  "order": 4,
+  "strings": {
+    "community": "Mapwyr Cymru",
+    "communityID": "mapwyrcymru",
+    "description": "We help improve OpenStreetMap in Wales.",
+    "url": "https://mapwyr.cymru/"
+  },
+  "contacts": [
+    {"name": "Preben Vangberg", "email": "prebenvangberg@gmail.com"}
+  ]
+}

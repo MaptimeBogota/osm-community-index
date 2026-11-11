@@ -1,9 +1,39 @@
-/.nyc_output
-/coverage
-/dist/javascript
-/docs-local
-/node_modules
-
-.DS_Store
-npm-debug.log
+# Dependencies
+node_modules/
 package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build output
+build/
+dist/javascript/
+dist/js/
+dist/json/
+dist/ts/
+docs-local/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+coverage/
+.vscode/
+!.vscode/extensions.json
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime temp files
+*.tmp
+*.temp
+
+# Agent memory
+SCRATCHPAD.md

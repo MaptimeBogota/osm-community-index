@@ -1,0 +1,12 @@
+{
+  "id": "ca-discourse",
+  "type": "discourse",
+  "account": "ca",
+  "locationSet": {"include": ["ca"]},
+  "languageCodes": ["en", "fr"],
+  "order": 1,
+  "strings": {
+    "community": "OpenStreetMap Canada",
+    "communityID": "openstreetmapcanada"
+  }
+}

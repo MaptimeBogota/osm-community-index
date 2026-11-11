@@ -1,5 +1,6 @@
 sr:
   _communities:
+    freelibreopensourcesoftwarekosovaflossk: Бесплатни софтвер отвореног кода Косова (FLOSSK)
     openstreetmap: OpenStreetMap
     openstreetmapaachen: OpenStreetMap Ахен
     openstreetmapafghanistan: OpenStreetMap Авганистан
@@ -17,6 +18,7 @@ sr:
     openstreetmapbelize: OpenStreetMap Белизе
     openstreetmapbenin: OpenStreetMap Бенин
     openstreetmapberlin: OpenStreetMap Берлин
+    openstreetmapbochum: OpenStreetMap Бохум
     openstreetmapbolivia: OpenStreetMap Боливија
     openstreetmapbonn: OpenStreetMap Бон
     openstreetmapbosniaandherzegovina: OpenStreetMap Босна и Херцеговина
@@ -24,7 +26,6 @@ sr:
     openstreetmapbrasilia: OpenStreetMap Бразилија
     openstreetmapbremen: OpenStreetMap Бремен
     openstreetmapbulgaria: OpenStreetMap Бугарска
-    openstreetmapburkinafaso: OpenStreetMap Буркина Фасо
     openstreetmapburundi: OpenStreetMap Бурунди
     openstreetmapcambodia: OpenStreetMap Камбоџа
     openstreetmapcameroon: OpenStreetMap Камерун
@@ -36,12 +37,12 @@ sr:
     openstreetmapchile: OpenStreetMap Чиле
     openstreetmapchina: OpenStreetMap Кина
     openstreetmapcologne: OpenStreetMap Келн
-    openstreetmapcolombia: OpenStreetMap Колумбија
     openstreetmapcomunitatvalenciana: OpenStreetMap Валенсијана
-    openstreetmapcostarica: OpenStreetMap Костарика
     openstreetmapcotedivoire: OpenStreetMap Обала Слоноваче
     openstreetmapcroatia: OpenStreetMap Хрватска
     openstreetmapcuba: OpenStreetMap Куба
+    openstreetmapcyprus: OpenStreetMap Кипар
+    openstreetmapdelhi: OpenStreetMap Делхи
     openstreetmapdenmark: OpenStreetMap Данска
     openstreetmapdjibouti: OpenStreetMap Џибути
     openstreetmapdominicanrepublic: OpenStreetMap Доминиканска Република
@@ -71,7 +72,6 @@ sr:
     openstreetmapguinea: OpenStreetMap Гвинеја
     openstreetmaphaiti: OpenStreetMap Хаити
     openstreetmaphamburg: OpenStreetMap Хамбург
-    openstreetmaphonduras: OpenStreetMap Хондурас
     openstreetmaphongkong: OpenStreetMap Хонгконг
     openstreetmaphungary: OpenStreetMap Мађарска
     openstreetmapiceland: OpenStreetMap Исланд
@@ -85,7 +85,6 @@ sr:
     openstreetmapitalylazio: OpenStreetMap Италија-Лацио
     openstreetmapitalylombardia: OpenStreetMap Италија-Ломбардија
     openstreetmapitalypiemonte: OpenStreetMap Италија-Пијемонт
-    openstreetmapitalysouthtyrol: OpenStreetMap Италија-Јужни Тирол
     openstreetmapitalytrentino: OpenStreetMap Италија-Трентино
     openstreetmapjapan: OpenStreetMap Јапан
     openstreetmapkarlsruhe: OpenStreetMap Карлслуе
@@ -94,10 +93,8 @@ sr:
     openstreetmapkerala: OpenStreetMap Керала
     openstreetmapkorea: OpenStreetMap Кореја
     openstreetmapkosovo: OpenStreetMap Косово
-    openstreetmapkyrgyzstan: OpenStreetMap Киргистан
     openstreetmaplatinamerica: OpenStreetMap Латинска Америка
     openstreetmaplatvia: OpenStreetMap Латвија
-    openstreetmaplebanon: OpenStreetMap Лебанон
     openstreetmaplesotho: OpenStreetMap Лесото
     openstreetmapliberia: OpenStreetMap Либерија
     openstreetmaplibya: OpenStreetMap Либија
@@ -119,6 +116,7 @@ sr:
     openstreetmapmichigan: OpenStreetMap Мичиген
     openstreetmapmoldova: OpenStreetMap Молдавија
     openstreetmapmongolia: OpenStreetMap Монголија
+    openstreetmapmontenegro: OpenStreetMap Црна Гора
     openstreetmapmontrouge: OpenStreetMap Монруж
     openstreetmapmorocco: OpenStreetMap Мороко
     openstreetmapmunchen: OpenStreetMap Минхен
@@ -150,8 +148,8 @@ sr:
     openstreetmapsaudiarabia: OpenStreetMap Саудијска Арабија
     openstreetmapsenegal: OpenStreetMap Сенегал
     openstreetmapserbia: OpenStreetMap Србија
-    openstreetmapseychelles: OpenStreetMap Сејшели
     openstreetmapsierraleone: OpenStreetMap Сијера Леоне
+    openstreetmapsingapore: OpenStreetMap Сингапур
     openstreetmapslovenia: OpenStreetMap Словенија
     openstreetmapsomalia: OpenStreetMap Сомалија
     openstreetmapsouthafrica: OpenStreetMap Јужна Африка
@@ -160,7 +158,6 @@ sr:
     openstreetmapsudan: OpenStreetMap Судан
     openstreetmapsweden: OpenStreetMap Шведска
     openstreetmapswitzerland: OpenStreetMap Швајцарска
-    openstreetmapsyria: OpenStreetMap Сирија
     openstreetmaptaiwan: OpenStreetMap Тајван
     openstreetmaptanzania: OpenStreetMap Танзанија
     openstreetmapthailand: OpenStreetMap Тајланд
@@ -182,39 +179,46 @@ sr:
     openstreetmapzambia: OpenStreetMap Замбија
     openstreetmapzimbabwe: OpenStreetMap Зимбабве
   _defaults:
-    aparat:
-      url: https://aparat.com/{account}
-    discord:
-      name: '{community} Discord'
-      url: https://discord.gg/{account}
+    discourse:
+      description: Званичан форум за {community}
     facebook:
       name: '{community} на Фејсбуку'
       description: Придружи се нашој заједници на Фејсбуку
+    fediverse:
+      name: '{community}'
     forum:
       name: '{community} Форум'
       description: Званичан форум за {community}
-    github:
-      url: https://github.com/{account}
     gitlab:
-      url: https://gitlab.com/{account}
-    mailinglist:
-      url: https://lists.openstreetmap.org/listinfo/{account}
-    matrix:
-      url: https://matrix.to/#/{account}:matrix.org
+      name: '{community} GitLab'
+    group:
+      name: '{community}'
+    instagram:
+      name: '{community} на Instagram-у'
+      description: Запратите нас на Instagram-у
+      url: https://instagram.com/{account}
+    linkedin:
+      name: '{community} на LinkedIn-у'
+    newsletter:
+      name: '{community} њузлетер'
+    osm:
+      name: '{community}'
+    osm-lc:
+      name: '{community}'
     reddit:
-      url: https://www.reddit.com/r/{account}
-    youtube:
-      url: https://www.youtube.com/channel/{account}
+      name: '{community} на Reddit-у'
+    url:
+      name: '{community}'
+  kosovo-flossk:
+    name: Бесплатни софтвер отвореног кода Косова (FLOSSK)
   Maptime-Oceania-Slack:
     description: Пријавите се на {signupUrl}
   osm-benin-facebook:
     description: Унапреди OpenStreetMap у Бенину
-  OSM-Boston:
-    name: OpenStreetMap Бостон
+  osm-ch:
+    name: '{community}'
   OSM-Colorado:
     name: OpenStreetMap Колорадо
-  OSM-help:
-    name: OpenStreetMap Помоћ
   rs-gitlab:
     description: Збирка пројеката везаних за OSM Србију на Гитлабу
   rs-osm:

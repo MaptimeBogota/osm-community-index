@@ -1,0 +1,12 @@
+{
+  "id": "se-discourse",
+  "type": "discourse",
+  "account": "se",
+  "locationSet": {"include": ["se"]},
+  "languageCodes": ["sv"],
+  "order": 4,
+  "strings": {
+    "community": "OpenStreetMap Sweden",
+    "communityID": "openstreetmapsweden"
+  }
+}

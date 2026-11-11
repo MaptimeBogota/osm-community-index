@@ -12,12 +12,406 @@ _Breaking changes, which may affect downstream projects, are marked with a_ ⚠�
 # A.B.C
 ##### YYYY-MMM-DD
 
-* Added resources:
-* Added events:
+* Added:
 * Updated:
+* Removed:
 
 [#xxx]: https://github.com/osmlab/osm-community-index/issues/xxx
 -->
+# 6.2.1
+##### 2026-Nov-11
+* Added:
+  * OpenStreetMap Bluesky account ([#866])
+  * OSM Syria resources ([#876])
+  * Wales community: Mapwyr Cymru website and Discord ([#877])
+  * OpenStreetMap Catalan Countries Local Chapter ([#868])
+  * OSM Spain Matrix ([#867])
+  * Marche region (Italy) Telegram and mailing list ([#870])
+  * OSM Belgium GitHub ([#871])
+  * Open Source San José Bluesky ([#873])
+  * Wikimedia Bay Area ([#874])
+* Updated:
+  * Various improvements to communities in Germany: re-order Rhein-Neckar groups, use type `group` for local groups not on meetup.com ([#861])
+  * Fix Rhein-Neckar Matrix URL ([#869])
+  * Fix OSM Málaga Zulip ID and URL ([#864])
+  * Update Belgium newsletter ([#871])
+* Removed:
+  * Inactive YouthMappers chapter at Heidelberg University ([#861])
+  * Belgium Meetup ([#871])
+  * Bulgaria Facebook group ([#875])
+  * Bay Area OpenStreetMappers Meetup ([#874])
+  * OSM Southern California Meetup ([#872])
+
+[#861]: https://github.com/osmlab/osm-community-index/issues/861
+[#864]: https://github.com/osmlab/osm-community-index/issues/864
+[#866]: https://github.com/osmlab/osm-community-index/issues/866
+[#867]: https://github.com/osmlab/osm-community-index/issues/867
+[#868]: https://github.com/osmlab/osm-community-index/issues/868
+[#869]: https://github.com/osmlab/osm-community-index/issues/869
+[#870]: https://github.com/osmlab/osm-community-index/issues/870
+[#871]: https://github.com/osmlab/osm-community-index/issues/871
+[#872]: https://github.com/osmlab/osm-community-index/issues/872
+[#873]: https://github.com/osmlab/osm-community-index/issues/873
+[#874]: https://github.com/osmlab/osm-community-index/issues/874
+[#875]: https://github.com/osmlab/osm-community-index/issues/875
+[#876]: https://github.com/osmlab/osm-community-index/issues/876
+[#877]: https://github.com/osmlab/osm-community-index/issues/877
+
+
+# 6.2.0
+##### 2026-Jul-31
+* Support new resource type: `whatsapp` ([#859])
+* Added:
+  * OSM Honduras WhatsApp group chat ([#858])
+* Removed:
+  * Ukraine Telegram resource ([#860])
+
+[#858]: https://github.com/osmlab/osm-community-index/issues/858
+[#859]: https://github.com/osmlab/osm-community-index/issues/859
+[#860]: https://github.com/osmlab/osm-community-index/issues/860
+
+
+# 6.1.1
+##### 2026-Jul-29
+* Added:
+  * OSM Honduras resources ([#858])
+
+[#858]: https://github.com/osmlab/osm-community-index/issues/858
+
+
+# 6.1.0
+##### 2026-Jul-28
+* Added:
+  * OSM Puducherry Signal group ([#857])
+  * Aschaffenburg Area Signal group ([#849])
+  * OSM D-A-CH Signal group
+  * Local group in Málaga, Spain ([#847])
+  * OSM Sheffield Matrix ([#846])
+  * Veneto community ([#844])
+  * Rhein-Neckar group ([#834])
+  * OSM Turkey Forum ([#833])
+  * Sicily Telegram ([#841])
+  * Updated invite link for OSM Iran ([#843])
+* Updated:
+  * Re-order France resources — forum first, deprioritize Discord/Facebook ([#816])
+  * Improve sort of UK resources ([#848])
+  * Update Czech Republic resources ([#837])
+  * Update Ireland resources per board decision 2024-05 ([#830])
+  * Fix Emilia-Romagna (it-er) Telegram URL ([#839])
+  * Update Ostwestfalen-Lippe mailing list URL ([#851])
+  * More descriptive description for MapLYH ([#853])
+  * Correct language code `tw` → `zh-tw` for Taiwanese Mandarin ([#838])
+  * Represent Aschaffenburg, Málaga, and Sheffield as point+radius locations instead of geojson
+* Removed:
+  * Rename Twitter → X and remove several dormant X/Twitter accounts ([#842], [#845])
+  * Remove OpenStreetMap UK on X ([#848])
+  * Remove MappingWR Slack ([#856])
+  * Remove Mapping USA 2022 event ([#835])
+* Strict TypeScript across the codebase, lint/CI cleanup, dependency bumps, and docs updates
+
+[#816]: https://github.com/osmlab/osm-community-index/issues/816
+[#830]: https://github.com/osmlab/osm-community-index/issues/830
+[#833]: https://github.com/osmlab/osm-community-index/issues/833
+[#834]: https://github.com/osmlab/osm-community-index/issues/834
+[#835]: https://github.com/osmlab/osm-community-index/issues/835
+[#837]: https://github.com/osmlab/osm-community-index/issues/837
+[#838]: https://github.com/osmlab/osm-community-index/issues/838
+[#839]: https://github.com/osmlab/osm-community-index/issues/839
+[#841]: https://github.com/osmlab/osm-community-index/issues/841
+[#842]: https://github.com/osmlab/osm-community-index/issues/842
+[#843]: https://github.com/osmlab/osm-community-index/issues/843
+[#844]: https://github.com/osmlab/osm-community-index/issues/844
+[#845]: https://github.com/osmlab/osm-community-index/issues/845
+[#846]: https://github.com/osmlab/osm-community-index/issues/846
+[#847]: https://github.com/osmlab/osm-community-index/issues/847
+[#848]: https://github.com/osmlab/osm-community-index/issues/848
+[#849]: https://github.com/osmlab/osm-community-index/issues/849
+[#851]: https://github.com/osmlab/osm-community-index/issues/851
+[#853]: https://github.com/osmlab/osm-community-index/issues/853
+[#856]: https://github.com/osmlab/osm-community-index/issues/856
+[#857]: https://github.com/osmlab/osm-community-index/issues/857
+
+
+# 6.0.0
+##### 2025-Oct-28
+* Various fixes, see [#829]
+  * Fix broken .cjs and .mjs bundles ([#828])
+  * Converts a bunch of the project to TypeScript and generate d.ts files under `./dist/ts`
+  * Adds the "bun" export specifier to package.json, which would allow consumers to import TypeScript directly without going through a bundle.
+  * Restore linting
+  * Drops js-yaml dependency, Bun has this builtin too!
+  * Remove Node version from `package.json` `engines` ([c3738945])
+
+[#829]: https://github.com/osmlab/osm-community-index/issues/829
+[#828]: https://github.com/osmlab/osm-community-index/issues/828
+[c3738945]: https://github.com/osmlab/osm-community-index/commit/c3738945eeda5c43d6130d0139dc21d36352d39f#r168978734
+
+
+# 5.10.0
+##### 2025-Oct-21
+* This project uses [`bun`](https://bun.com/) now, for simpler developer tooling ([#827])
+* ⚠️  Exported files under `/dist` have changed:
+  * _Generated files are no longer checked into git, but they are published to npm and available on JSDelivr CDN._
+  * JSON files are now under `/dist/json/*`
+  * JavaScript files are now under `/dist/js/*`
+* Updated dependencies, bump to location-conflation v1.7.0 / country-coder v5.6.0
+* Added:
+  * Emilia-Romagna Telegram ([#815])
+  * Puglia Telegram ([#822])
+* Updated:
+  * Swiss mailing list URL ([#820])
+* Removed:
+  * Vietnam Mastodon ([#817])
+  * Asia Facebook Group ([#819])
+  * Catalan Twitter and mailing list ([#821])
+  * W&M YouthMappers ([#823])
+  * UW Badger Maps ([#824])
+  * Central Salish Sea Meetup ([#825])
+
+[#815]: https://github.com/osmlab/osm-community-index/issues/815
+[#817]: https://github.com/osmlab/osm-community-index/issues/817
+[#819]: https://github.com/osmlab/osm-community-index/issues/819
+[#820]: https://github.com/osmlab/osm-community-index/issues/820
+[#821]: https://github.com/osmlab/osm-community-index/issues/821
+[#822]: https://github.com/osmlab/osm-community-index/issues/822
+[#823]: https://github.com/osmlab/osm-community-index/issues/823
+[#824]: https://github.com/osmlab/osm-community-index/issues/824
+[#825]: https://github.com/osmlab/osm-community-index/issues/825
+[#827]: https://github.com/osmlab/osm-community-index/issues/827
+
+
+# 5.9.3
+##### 2025-Jul-31
+* Updated dependencies, bump to location-conflation v1.5.0 / country-coder v5.4.0
+* Updated:
+  * URL for Swiss OSM Mastodon ([#809])
+  * URL for Belgium Newsletter ([#812])
+  * Fixed language code for Estonian resources ([#813])
+* Removed:
+  * Belgium IRC ([#812])
+  * Maptime HRVA ([#802])
+  * Deprecated mailing lists: ([#805], [#808])
+    * talk-bf, talk-mw, talk-nz, talk-sc, talk-so, talk-za, talk-zm, talk-af, talk-vn, talk-at, talk-hr, talk-ir, talk-iq, talk-sy, talk-ec, talk-latam
+
+[#802]: https://github.com/osmlab/osm-community-index/issues/802
+[#805]: https://github.com/osmlab/osm-community-index/issues/805
+[#808]: https://github.com/osmlab/osm-community-index/issues/808
+[#809]: https://github.com/osmlab/osm-community-index/issues/809
+[#812]: https://github.com/osmlab/osm-community-index/issues/812
+[#813]: https://github.com/osmlab/osm-community-index/issues/813
+
+
+# 5.9.2
+##### 2025-Apr-24
+* Bump required Node to 22
+* Added:
+  * Minas Gerais, Brazil Discord ([#803])
+  * Punjab region resources ([#784])
+  * YouthMappers UFRJ and IVIDES Bluesky, LinkedIn ([#781], [#790], [#791], [#792])
+* Updated:
+  * Rename Twitter to "X" instead of "𝕏" due to accessibility concerns ([#804])
+  * Fix Latvia Zulip Chat URL ([#795])
+  * Hungary resources and sort orders ([#794])
+  * MapRVA links ([#782])
+  * IVIDES Youtube channel ID ([#779])
+* Removed:
+  * United Kingdom Loomio Chat ([#801])
+  * Mainz Telegram Chat ([#798])
+  * YouthMappers UFRJ and IVIDES Instagram, Facebook ([#785], [#786], [#787], [#788])
+
+[#779]: https://github.com/osmlab/osm-community-index/issues/779
+[#781]: https://github.com/osmlab/osm-community-index/issues/781
+[#782]: https://github.com/osmlab/osm-community-index/issues/782
+[#784]: https://github.com/osmlab/osm-community-index/issues/784
+[#785]: https://github.com/osmlab/osm-community-index/issues/785
+[#786]: https://github.com/osmlab/osm-community-index/issues/786
+[#787]: https://github.com/osmlab/osm-community-index/issues/787
+[#788]: https://github.com/osmlab/osm-community-index/issues/788
+[#790]: https://github.com/osmlab/osm-community-index/issues/790
+[#791]: https://github.com/osmlab/osm-community-index/issues/791
+[#792]: https://github.com/osmlab/osm-community-index/issues/792
+[#794]: https://github.com/osmlab/osm-community-index/issues/794
+[#795]: https://github.com/osmlab/osm-community-index/issues/795
+[#798]: https://github.com/osmlab/osm-community-index/issues/798
+[#801]: https://github.com/osmlab/osm-community-index/issues/801
+[#803]: https://github.com/osmlab/osm-community-index/issues/803
+[#804]: https://github.com/osmlab/osm-community-index/issues/804
+
+
+# 5.9.1
+##### 2025-Jan-15
+* Added:
+  * YouthMappers UFRJ and IVIDES ([#765])
+  * DE Mainz Signal Group ([#767])
+  * OSM Iraq Twitter ([#768])
+* Updated:
+  * Swedish community resources ([#775])
+* Removed:
+  * OSM Belgium Twitter ([#776])
+
+[#765]: https://github.com/osmlab/osm-community-index/issues/765
+[#767]: https://github.com/osmlab/osm-community-index/issues/767
+[#768]: https://github.com/osmlab/osm-community-index/issues/768
+[#775]: https://github.com/osmlab/osm-community-index/issues/775
+[#776]: https://github.com/osmlab/osm-community-index/issues/776
+
+
+# 5.9.0
+##### 2024-Dec-16
+* Updated dependencies, bump to location-conflation v1.4.1 / country-coder v5.3.1
+* Support new resource type: `bluesky`
+* Added:
+  * Many community forum links ([#741], [#742], [#743], [#744], [#745], [#746], [#747], [#748], [#752]):
+    * Africa, Austria, Bangladesh, Canada, Croatia, Estonia, Finland, Hungary, Indonesia, Malaysia, Mexico, Nepal, Russia, Sweden, Ukraine, Venezuela
+  * Social networks for OSM Colombia ([#749])
+  * Social networks for TadeoMappers ([#754])
+  * Nelson, New Zealand mapping group ([#755])
+  * Georgia Matrix ([#760])
+  * Croatia resources and remove IRC ([#762])
+  * Bulgaria Matrix ([#766])
+* Updated:
+  * Switch OSM Berlin from Telegram to Mastodon ([#740])
+  * Many sort orders updated ([#750], [#751], [#753]):
+    * India, Ireland, Italy, Serbia, Thailand
+* Removed:
+  * Ireland Meetup ([#750])
+  * Indonesia mailing list
+  * Many groups with dead links ([#757])
+  * MapABQ ([#759])
+
+[#740]: https://github.com/osmlab/osm-community-index/issues/740
+[#741]: https://github.com/osmlab/osm-community-index/issues/741
+[#742]: https://github.com/osmlab/osm-community-index/issues/742
+[#743]: https://github.com/osmlab/osm-community-index/issues/743
+[#744]: https://github.com/osmlab/osm-community-index/issues/744
+[#745]: https://github.com/osmlab/osm-community-index/issues/745
+[#746]: https://github.com/osmlab/osm-community-index/issues/746
+[#747]: https://github.com/osmlab/osm-community-index/issues/747
+[#748]: https://github.com/osmlab/osm-community-index/issues/748
+[#749]: https://github.com/osmlab/osm-community-index/issues/749
+[#750]: https://github.com/osmlab/osm-community-index/issues/750
+[#751]: https://github.com/osmlab/osm-community-index/issues/751
+[#752]: https://github.com/osmlab/osm-community-index/issues/752
+[#753]: https://github.com/osmlab/osm-community-index/issues/753
+[#754]: https://github.com/osmlab/osm-community-index/issues/754
+[#755]: https://github.com/osmlab/osm-community-index/issues/755
+[#757]: https://github.com/osmlab/osm-community-index/issues/757
+[#759]: https://github.com/osmlab/osm-community-index/issues/759
+[#760]: https://github.com/osmlab/osm-community-index/issues/760
+[#762]: https://github.com/osmlab/osm-community-index/issues/762
+[#766]: https://github.com/osmlab/osm-community-index/issues/766
+
+
+# 5.8.1
+##### 2024-Sep-12
+* Project has been tested and works on Node 22
+* Added:
+  * Chile Matrix ([#717])
+  * West Bengal Telegram and Matrix ([#722])
+  * Vietnam Mastodon ([#727])
+  * Vietnam Telegram and Wiki page ([#728])
+  * Swiss Mastodon and Discourse ([#732], [#733], [#734])
+  * MapLYH Signal group for Lynchburg, Virginia, USA ([#735])
+  * Japan Discord ([#738])
+* Updated:
+  * Language codes and description for OSM World Discord ([#726])
+  * Switch OSM San José from Meetup to Mastodon ([#730])
+  * Cypriot locationSet to include the entire island ([#731])
+  * Use better icon for Signal Messenger resource type ([#737])
+* Removed:
+  * OSM Fiji website ([#729])
+  * `talk-ru` mailing list and OSM Russia Twitter account ([#736])
+  * Japan Slack ([#738])
+
+[#717]: https://github.com/osmlab/osm-community-index/issues/717
+[#722]: https://github.com/osmlab/osm-community-index/issues/722
+[#726]: https://github.com/osmlab/osm-community-index/issues/726
+[#727]: https://github.com/osmlab/osm-community-index/issues/727
+[#728]: https://github.com/osmlab/osm-community-index/issues/728
+[#729]: https://github.com/osmlab/osm-community-index/issues/729
+[#730]: https://github.com/osmlab/osm-community-index/issues/730
+[#731]: https://github.com/osmlab/osm-community-index/issues/731
+[#732]: https://github.com/osmlab/osm-community-index/issues/732
+[#733]: https://github.com/osmlab/osm-community-index/issues/733
+[#734]: https://github.com/osmlab/osm-community-index/issues/734
+[#735]: https://github.com/osmlab/osm-community-index/issues/735
+[#736]: https://github.com/osmlab/osm-community-index/issues/736
+[#737]: https://github.com/osmlab/osm-community-index/issues/737
+[#738]: https://github.com/osmlab/osm-community-index/issues/738
+
+
+# 5.8.0
+##### 2024-Jul-17
+* Updated dependencies, bump to location-conflation v1.4.0 / country-coder v5.3.0
+* Updated to FontAwesome v6.6.x, some icons updated
+* Added:
+  * Cypriot Matrix ([#718], [#720])
+  * Georgia Telegram ([#723])
+  * Asia Facebook Group ([#725])
+* Updated:
+  * Utah Meetup is now a website ([#719])
+
+[#718]: https://github.com/osmlab/osm-community-index/issues/718
+[#719]: https://github.com/osmlab/osm-community-index/issues/719
+[#720]: https://github.com/osmlab/osm-community-index/issues/720
+[#723]: https://github.com/osmlab/osm-community-index/issues/723
+[#725]: https://github.com/osmlab/osm-community-index/issues/725
+
+
+# 5.7.1
+##### 2024-May-28
+* Added:
+  * Italy, France, Serbia Linkedin groups ([#563])
+  * Greece Discourse ([#716])
+* Updated:
+  * Niger Facebook link ([#691])
+
+[#563]: https://github.com/osmlab/osm-community-index/issues/563
+[#691]: https://github.com/osmlab/osm-community-index/issues/691
+[#716]: https://github.com/osmlab/osm-community-index/issues/716
+
+
+# 5.7.0
+##### 2024-May-24
+* Support new resource types: `fediverse`, `instagram`, `tiktok` ([#670], [#710])
+* Added:
+  * United Kingdom Discourse ([#713])
+  * YouthMappers Oregon State University ([#714])
+* Updated:
+  * Fixed mailing list for OSM Mainz ([#712])
+* Removed:
+  * Inactive OSMChina website ([#715])
+
+[#670]: https://github.com/osmlab/osm-community-index/issues/670
+[#710]: https://github.com/osmlab/osm-community-index/issues/710
+[#712]: https://github.com/osmlab/osm-community-index/issues/712
+[#713]: https://github.com/osmlab/osm-community-index/issues/713
+[#714]: https://github.com/osmlab/osm-community-index/issues/714
+[#715]: https://github.com/osmlab/osm-community-index/issues/715
+
+
+# 5.6.3
+##### 2024-May-01
+* Added:
+  * Resources for Colombia and Bogota ([#709])
+  * Resources for Mainz, Germany ([#707])
+  * Netherlands Discourse ([#705])
+* Removed:
+  * Inactive Portland resources ([#711])
+  * Michigan Facebook ([#706])
+  * Inactive Norway mailing list, update other resources ([#704])
+  * Inactive Boston Meetup group ([#703])
+  * Inactive UVM Humanitarian Mapping club ([#702])
+
+[#702]: https://github.com/osmlab/osm-community-index/issues/702
+[#703]: https://github.com/osmlab/osm-community-index/issues/703
+[#704]: https://github.com/osmlab/osm-community-index/issues/704
+[#705]: https://github.com/osmlab/osm-community-index/issues/705
+[#706]: https://github.com/osmlab/osm-community-index/issues/706
+[#707]: https://github.com/osmlab/osm-community-index/issues/707
+[#709]: https://github.com/osmlab/osm-community-index/issues/709
+[#711]: https://github.com/osmlab/osm-community-index/issues/711
+
 
 # 5.6.2
 ##### 2024-Feb-26
@@ -38,7 +432,7 @@ _Breaking changes, which may affect downstream projects, are marked with a_ ⚠�
 
 # 5.6.1
 ##### 2023-Dec-21
-* Bump reqired node to 18, swap `tap` for `node:test`
+* Bump required Node to 18, swap `tap` for `node:test`
 * Added:
   * Catalan community Twitch channel ([#680])
   * Bengaluru commmunity resources ([#682])

@@ -1,0 +1,12 @@
+{
+  "id": "ve-discourse",
+  "type": "discourse",
+  "account": "ve",
+  "locationSet": {"include": ["ve"]},
+  "languageCodes": ["es"],
+  "order": 1,
+  "strings": {
+    "community": "OpenStreetMap Venezuela",
+    "communityID": "openstreetmapvenezuela"
+  }
+}

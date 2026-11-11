@@ -1,0 +1,12 @@
+{
+  "id": "cyprus-matrix",
+  "type": "matrix",
+  "account": "#osm-cyprus",
+  "locationSet": {"include": ["Q644636"]},
+  "languageCodes": ["en"],
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Cyprus",
+    "communityID": "openstreetmapcyprus"
+  }
+}

@@ -1,44 +1,56 @@
 # Release Checklist
 
-### Icons
-This project bundles some icons from FontAwesome, corresponding to the types of
-community resources.  Whenever the list of resource types changes:
-- [ ] Edit `build_icons.js`
-- [ ] npm run icons
-
-### Update main branch, make sure tests pass
-- [ ] git checkout main
-- [ ] git pull origin
-- [ ] npm install
-- [ ] npm run test
-
-### Update translations
-- [ ] npm run txpull
-- [ ] git add i18n/ && git commit -m 'npm run txpull'
-
-### Update changelog, version, tag, then publish
-- [ ] Update `CHANGELOG.md`
-- [ ] Update version number in `package.json`
-- [ ] npm run dist
-- [ ] git add . && git commit -m 'vA.B.C'
-- [ ] git tag vA.B.C
-- [ ] git push origin main vA.B.C
-- [ ] npm publish
-
-Open https://github.com/osmlab/osm-community-index/tags
-Click "Add Release Notes" and link to the CHANGELOG
-
-### Purge cache (optional)
+## Before releasing, does the project build cleanly?
 
 ```bash
-curl 'https://purge.jsdelivr.net/gh/osmlab/osm-community-index@main/dist/completeFeatureCollection.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index/dist/defaults.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index/dist/featureCollection.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index/dist/resources.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index@5/dist/defaults.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index@5/dist/featureCollection.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index@5/dist/resources.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index@5.6/dist/defaults.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index@5.6/dist/featureCollection.min.json'
-curl 'https://purge.jsdelivr.net/npm/osm-community-index@5.6/dist/resources.min.json'
+# Make sure your main branch is up to date and all tests pass
+git checkout main
+git pull origin
+bun install
+bun run all
 ```
+
+## Update translations
+
+```bash
+bun run txpull
+git add i18n/ && git commit -m 'bun run txpull'
+```
+
+## Update Icons
+
+This project bundles some icons from FontAwesome, corresponding to the types of
+community resources.  Whenever the list of resource types changes:
+
+```bash
+# Edit `./scripts/icons.ts` if needed
+bun run icons
+```
+
+## Prepare the release
+
+Pick a version, see https://semver.org/ - for example: 'A.B.C' or 'A.B.C-pre.D'
+
+Optionally, use the `/release` skill in your agent (Claude Code, Copilot Chat, etc.) — it will:
+- Validate the version number
+- Identify commits since the last release and look up PR numbers
+- Update `CHANGELOG.md` with a new entry
+- Bump the version in `package.json`
+
+(or perform these steps manually)
+
+## Tag and publish
+
+```bash
+export VERSION=vA.B.C-pre.D
+git add . && git commit -m "$VERSION"
+git tag "$VERSION"
+git push origin main "$VERSION"
+npm login    # if needed, session tokens last 2 hours
+bun publish
+```
+
+Set as latest release on GitHub:
+- Open https://github.com/osmlab/osm-community-index/blob/main/CHANGELOG.md and copy the URL to the new release
+- Open https://github.com/osmlab/osm-community-index/tags and pick the new tag you just pushed
+- There should be a link like "create a release from the tag", click that, and paste in the link to the changelog.

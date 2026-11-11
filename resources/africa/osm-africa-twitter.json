@@ -1,8 +1,9 @@
 {
   "id": "osm-africa-twitter",
-  "type": "twitter",
+  "type": "x",
   "account": "osmafrica",
   "locationSet": {"include": ["002"]},
+  "order": -2,
   "strings": {
     "community": "OpenStreetMap Africa",
     "communityID": "openstreetmapafrica"

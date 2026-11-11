@@ -4,9 +4,6 @@ be:
     geolibres: ГеаЛібрэс
     kiribatiwomeninmapping: Жанчыны Кірыбаці ў картаграфаванні
     mappingbotswana: Картаграфаванне Батсваны
-    maptimebogota: MaptimeBogota
-    maptimehrva: MaptimeHRVA
-    openstreetmap: OpenStreetMap
     openstreetmapaachen: OpenStreetMap Ахен
     openstreetmapafghanistan: OpenStreetMap Афганістан
     openstreetmapafrica: OpenStreetMap Афрыка
@@ -24,7 +21,6 @@ be:
     openstreetmapbelize: OpenStreetMap Беліз
     openstreetmapbenin: OpenStreetMap Бенін
     openstreetmapberlin: OpenStreetMap Берлін
-    openstreetmapbivccvl: OpenStreetMap BI-VC-CVL
     openstreetmapbochum: OpenStreetMap Бохум
     openstreetmapbolivia: OpenStreetMap Балівія
     openstreetmapbonn: OpenStreetMap Бон
@@ -33,7 +29,6 @@ be:
     openstreetmapbrasilia: OpenStreetMap Бразілія
     openstreetmapbremen: OpenStreetMap Брэмен
     openstreetmapbulgaria: OpenStreetMap Балгарыя
-    openstreetmapburkinafaso: OpenStreetMap Буркіна Фасо
     openstreetmapburundi: OpenStreetMap Бурундзі
     openstreetmapbzh: OpenStreetMap Брэтань
     openstreetmapcambodia: OpenStreetMap Камбоджа
@@ -46,10 +41,8 @@ be:
     openstreetmapchile: OpenStreetMap Чылі
     openstreetmapchina: OpenStreetMap Кітай
     openstreetmapcologne: OpenStreetMap Кёльн
-    openstreetmapcolombia: OpenStreetMap Калумбія
     openstreetmapcomunitatvalenciana: OpenStreetMap Валенсія
-    openstreetmapcostarica: OpenStreetMap Коста-Рыка
-    openstreetmapcotedivoire: OpenStreetMap Кот д’Івуар
+    openstreetmapcotedivoire: "OpenStreetMap Кот д’Івуар"
     openstreetmapcroatia: OpenStreetMap Харватыя
     openstreetmapcuba: OpenStreetMap Куба
     openstreetmapcuneo: OpenStreetMap Кунэа
@@ -85,7 +78,6 @@ be:
     openstreetmapguinea: OpenStreetMap Гвінея
     openstreetmaphaiti: OpenStreetMap Гаіці
     openstreetmaphamburg: OpenStreetMap Гамбург
-    openstreetmaphonduras: OpenStreetMap Гандурас
     openstreetmaphongkong: OpenStreetMap Ганконг
     openstreetmaphungary: OpenStreetMap Венгрыя
     openstreetmapiceland: OpenStreetMap Ісладыя
@@ -99,7 +91,6 @@ be:
     openstreetmapitalylazio: OpenStreetMap Лацыа
     openstreetmapitalylombardia: OpenStreetMap Ламбардыя
     openstreetmapitalypiemonte: OpenStreetMap П’емонт
-    openstreetmapitalysouthtyrol: OpenStreetMap Паўднёвы Тыроль
     openstreetmapitalytrentino: OpenStreetMap Трэнта
     openstreetmapjapan: OpenStreetMap Японія
     openstreetmapkarlsruhe: OpenStreetMap Карлсруэ
@@ -108,10 +99,8 @@ be:
     openstreetmapkerala: OpenStreetMap Керала
     openstreetmapkorea: OpenStreetMap Карэя
     openstreetmapkosovo: OpenStreetMap Косава
-    openstreetmapkyrgyzstan: OpenStreetMap Кыргызстан
     openstreetmaplatinamerica: OpenStreetMap Лацінская Амерыка
     openstreetmaplatvia: OpenStreetMap Латвія
-    openstreetmaplebanon: OpenStreetMap Ліван
     openstreetmaplesotho: OpenStreetMap Лесота
     openstreetmapliberia: OpenStreetMap Ліберыя
     openstreetmaplibya: OpenStreetMap Лівія
@@ -165,7 +154,6 @@ be:
     openstreetmapsaudiarabia: OpenStreetMap Саудаўская Аравія
     openstreetmapsenegal: OpenStreetMap Сенегал
     openstreetmapserbia: OpenStreetMap Сербія
-    openstreetmapseychelles: OpenStreetMap Сейшэлы
     openstreetmapsierraleone: OpenStreetMap Сьера Леонэ
     openstreetmapslovenia: OpenStreetMap Славенія
     openstreetmapsomalia: OpenStreetMap Самалі
@@ -175,7 +163,6 @@ be:
     openstreetmapsudan: OpenStreetMap Судан
     openstreetmapsweden: OpenStreetMap Швецыя
     openstreetmapswitzerland: OpenStreetMap Швейцарыя
-    openstreetmapsyria: OpenStreetMap Сірыя
     openstreetmaptaiwan: OpenStreetMap Тайван
     openstreetmaptanzania: OpenStreetMap Танзанія
     openstreetmapthailand: OpenStreetMap Тайланд
@@ -196,116 +183,155 @@ be:
     openstreetmapwesternsahara: OpenStreetMap Заходняя Сахара
     openstreetmapzambia: OpenStreetMap Замбія
     openstreetmapzimbabwe: OpenStreetMap Зімбабвэ
-    youthmappersasu: YouthMappersASU
   _defaults:
     aparat:
-      name: '{супольнасць} у Апарат'
+      name: "{community} у Апарат"
       description: Падпішыцеся да нашага Апарат-каналу
-      url: https://aparat.com/{акаўнт}
+      url: "https://aparat.com/{account}"
     discord:
-      name: '{супольнасць} Discord'
+      name: "{community} Discord"
       description: Узаемадзейнічайце з іншымі картографамі ў Discord
-      url: https://discord.gg/{акаўнт}
+      url: "https://discord.gg/{account}"
     discourse:
-      name: '{супольнасць} Форум Супольнасці'
-      description: Афіцыйны форум {супольнасць}
-      url: https://community.openstreetmap.org/c/communities/{акаўнт}
+      name: "{community} Форум Супольнасці"
+      description: "Афіцыйны форум {community}"
+      url: "https://community.openstreetmap.org/c/communities/{account}"
     facebook:
-      name: '{супольнасць} у Facebook'
+      name: "{community} у Facebook"
       description: Далучайцеся да нашай суполкі ў Facebook
-      url: https://www.facebook.com/{акаўнт}
+      url: "https://www.facebook.com/{account}"
+    fediverse:
+      name: "{community}"
     forum:
-      name: '{супольнасць} Форум'
-      description: Афіцыйны форум для {супольнасць}
+      name: "{community} Форум"
+      description: "Афіцыйны форум для {community}"
     github:
-      name: '{супольнасць} GitHub'
-      url: https://github.com/{акаўнт}
+      name: "{community} GitHub"
+      url: "https://github.com/{account}"
     gitlab:
-      name: '{супольнасць} GitLab'
-      url: https://gitlab.com/{акаўнт}
+      name: "{community} GitLab"
+      url: "https://gitlab.com/{account}"
     group:
-      name: '{супольнасць}'
+      name: "{community}"
     irc:
-      name: '{супольнасць} у IRC'
-      description: 'Далучайцеся, #{акаўнт}, праз  irc.oftc.net (порт6667 для non-SSL або 6697 для SSL)'
-      url: https://webchat.oftc.net/?channels={акаўнт}
+      name: "{community} у IRC"
+      description: "Далучайцеся, #{account}, праз  irc.oftc.net (порт6667 для non-SSL або 6697 для SSL)"
+      url: "https://webchat.oftc.net/?channels={account}"
     linkedin:
-      name: '{супольнасць} у LinkedIn'
+      name: "{community} у LinkedIn"
       description: Далучайцеся да суполкі ў LinkedIn
-      url: https://www.linkedin.com/company/{account}
     mailinglist:
-      name: '{account} Спіс рассылкі'
-      description: Афіцыйны спіс рассылкі для {community}
-      url: https://lists.openstreetmap.org/listinfo/{account}
+      name: "{account} Спіс рассылкі"
+      description: "Афіцыйны спіс рассылкі для {community}"
     mastodon:
-      name: '{community} на Mastodon'
-      description: Афіцыйны акаўнт Mastodon для {community}
+      name: "{community} на Mastodon"
+      description: "Афіцыйны акаўнт Mastodon для {community}"
     matrix:
-      name: '{community} гутарка Matrix'
+      name: "{community} гутарка Matrix"
       description: Далучайцеся да нашай гутарцы ў Matrix 
-      url: https://matrix.to/#/{account}:matrix.org
-    meetup:
-      name: '{community} Meetup'
-      url: https://www.meetup.com/{account}
     newsletter:
-      name: '{community} Інфармацыйны веснік'
+      name: "{community} Інфармацыйны веснік"
     osm:
-      name: '{community}'
+      name: "{community}"
     osm-lc:
-      name: '{community}'
+      name: "{community}"
     reddit:
-      name: '{community} у Reddit'
-      url: https://www.reddit.com/r/{account}
+      name: "{community} у Reddit"
     signal:
-      name: '{community} Signal'
       description: Далучайцеся да гутарцы супольнасці ў Signal
-    slack:
-      name: '{community} Slack'
     telegram:
-      name: '{community} Telegram'
       description: Далучайцеся да гутарцы супольнасці ў Telegram
-      url: https://t.me/{account}
     threads:
-      name: '{community} у Threads'
+      name: "{community} у Threads"
       description: Падпішыцеся на нас у Threads
-      url: https://threads.net/@{account}
-    twitter:
-      name: '{community} у 𝕏'
-      description: Падпішыцеся на нас у 𝕏
-      url: https://twitter.com/{account}
-    website:
-      name: '{community}'
+    url:
+      name: "{community}"
     wiki:
-      name: '{community} ВікіПраект'
-      url: https://wiki.openstreetmap.org/wiki/{account}
-    x:
-      name: '{community} у 𝕏'
-      description: Падпішыцеся на нас у 𝕏
-      url: https://twitter.com/{account}
-    xmpp:
-      name: '{community} XMPP'
+      name: "{community} ВікіПраект"
     youtube:
-      name: 'community} у YouTube'
+      name: "community} у YouTube"
       description: Пішыцеся на наш YouTube-канал
-      url: https://www.youtube.com/channel/{account}
     zulip:
-      name: '{community} Zulip'
       description: Далучыцеся да гутарцы супольнасці ў Zulip
-  aberdeen-discord:
-    name: OSM ABZ Discord
   af-matrix:
     description: Група Matrix для супольнасці ў Афганістане.
   al-maptime-tirana:
     name: Maptime Тырана
     description: Грамадскія мерапрыемствы, зарганізаваныя дзеля картаграфіі — навічкі вітаюцца!
-    extendedDescription: Maptime — гэта адкрытае навучальнае асяроддзе для ўсіх узроўняў і ступеняў ведаў, якая прадугледжвае мэтавую адукацыйную падтрымку пачаткоўцам. Maptime адначасова гнуткі і структураваны, ствараючы прастору для навучальных дапаможнікаў па картаграфіі, семінараў, бягучых праектаў з агульнай мэтай і самастойнай/сумеснай працы.
+    extendedDescription: "Maptime — гэта адкрытае навучальнае асяроддзе для ўсіх узроўняў і ступеняў ведаў, якая прадугледжвае мэтавую адукацыйную падтрымку пачаткоўцам. Maptime адначасова гнуткі і структураваны, ствараючы прастору для навучальных дапаможнікаў па картаграфіі, семінараў, бягучых праектаў з агульнай мэтай і самастойнай/сумеснай працы."
+  am-wiki:
+    description: "{community} старонка Вікіпедыі"
   at-matrix:
     description: Неафіцыйны нямецкі канал Matrix для Аўстрыі
   at-wiki:
-    description: '{community} старонка Вікіпедыі'
+    description: "{community} старонка Вікіпедыі"
   Bahia-telegram:
-    extendedDescription: Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!
-  Bay-Area-OpenStreetMappers:
-    name: Картографы OpenStreetMap з вобласці заліву
-    description: Палепшыце OpenStreetMap у вобласці заліву
-    extendedDescription: 'Гэтая група займаецца пашырэннем супольнасці OpenStreetMap тут, у раёне заліву. Нашыя мерапрыемствы адкрытыя для ўсіх: ад энтузіястаў з адкрытым зыходным кодам, раварыстаў, адмыслоўцаў па ГІС, збіральнікаў геаграфічных звестак ды не толькі. Усе, хто цікавіцца мапамі, складаннем мапаў і бясплатнымі картаграфічнымі данымі, могуць далучыцца да нашай групы, а таксама наведваць нашыя мерапрыемствы.'
+    extendedDescription: "Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!"
+  br-telegram:
+    extendedDescription: "Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!"
+  cd-chapter:
+    name: OpenStreetMap Дэмакратычная Рэспубліка Конга
+  cl-facebook:
+    extendedDescription: "Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!"
+  cl-telegram:
+    extendedDescription: "Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!"
+  de-aachen-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-berlin-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-bochum-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-bonn-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-bremen-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-cologne-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-dresden-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-dusseldorf-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-luneburg-wiki:
+    description: "{community} старонка Вікіпедыі"
+  de-munchen-wiki:
+    description: "{community} старонка Вікіпедыі"
+  DF-telegram:
+    extendedDescription: "Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!"
+  fr-35-wiki:
+    description: "{community} старонка Вікіпедыі"
+  fr-38-wiki:
+    description: "{community} старонка Вікіпедыі"
+  fr-montrouge-wiki:
+    description: "{community} старонка Вікіпедыі"
+  hr-github:
+    description: "{community} GitHub"
+  hu-wiki:
+    description: "{community} старонка Вікіпедыі"
+  ko-github:
+    description: "{community} GitHub"
+  kosovo-flossk:
+    name: Бясплатнае праграмнае забеспячэнне Лібрэ ад Kosova
+  OSM-AR-geolibres:
+    name: ГеаЛібрэс
+  osm-ch:
+    name: "{community}"
+  osm-deep-south-wiki:
+    description: "{community} старонка Вікіпедыі"
+  osm-michigan-wiki:
+    description: "{community} старонка Вікіпедыі"
+  osm-ohio-wiki:
+    description: "{community} старонка Вікіпедыі"
+  RS-telegram:
+    extendedDescription: "Далучайцеся да супольнасці, каб даведвацца больш пра OpenStreetMap, задаваць пытанні або ўдзельнічаць у нашых сустрэчах. Сардэчна запрашаем усіх!"
+  sg-wiki:
+    description: "{community} старонка Вікіпедыі"
+  si-github:
+    description: "{community} GitHub"
+  si-ljubljana-wiki:
+    description: "{community} старонка Вікіпедыі"
+  si-wiki:
+    description: "{community} старонка Вікіпедыі"
+  uk-london-wiki:
+    description: "{community} старонка Вікіпедыі"
+  vn-wiki:
+    description: "{community} старонка Вікіпедыі"

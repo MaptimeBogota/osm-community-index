@@ -1,0 +1,17 @@
+{
+  "id": "co-talk",
+  "type": "mailinglist",
+  "account": "talk-co",
+  "locationSet": {"include": ["co"]},
+  "languageCodes": ["en", "es"],
+  "order": 1,
+  "strings": {
+    "community": "OSM Colombia",
+    "communityID": "osmcolombia",
+    "name": "{community} mailing list",
+    "description": "Emails that require communicating information with the community"
+  },
+  "contacts": [
+    {"name": "Contacto Colombia", "email": "colombia@osm.lat"}
+  ]
+}

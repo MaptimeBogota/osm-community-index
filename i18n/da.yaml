@@ -1,83 +1,115 @@
 da:
   _communities:
+    openstreetmapbangladesh: OpenStreetMap Bangladesh
     openstreetmapdenmark: OpenStreetMap Danmark
-  al-maptime-tirana:
-    name: Maptime Tirana
-  Bay-Area-OpenStreetMappers:
-    name: Bay Area OpenStreetMappers
-    description: Forbedr OpenStreetMap i Bay Area
+    openstreetmapindonesia: OpenStreetMap Indonesia
+    openstreetmapjapan: OpenStreetMap Japan
+    openstreetmapmongolia: OpenStreetMap Mongolia
+    openstreetmapmyanmar: OpenStreetMap Myanmar
+    openstreetmapnepal: OpenStreetMap Nepal
+    openstreetmapottawa: OpenStreetMap Ottawa
+    openstreetmapperu: OpenStreetMap Peru
+    openstreetmapsrilanka: OpenStreetMap Sri Lanka
+    openstreetmapus: OpenStreetMap US
+  _defaults:
+    bluesky:
+      name: "{community} på Bluesky"
+      description: Følg os på Bluesky
+    discord:
+      description: Kom i kontakt med andre kortlæggere på Discord
+    discourse:
+      name: "{community} fællesskabsforum"
+      description: "Det officielle forum for {community}"
+    facebook:
+      name: "{community} på Facebook"
+      description: ' Tilslut dig vores fællesskab på Facebook'
+    forum:
+      name: "{community}-forum"
+      description: "Det officielle forum for {community}"
+    irc:
+      name: "{community} på IRC"
+      description: "Tilslut dig #{account} på irc.oftc.net (port 6667 for non-SSL eller 6697 for SSL)"
+    mailinglist:
+      name: "{account}-mailingliste"
+      description: "Den officielle mailingliste for {community}"
+    mastodon:
+      name: "{community} på Mastodon"
+      description: "Den officielle Mastodon-konto for {community}"
+    threads:
+      description: Følg os på Threads
+    twitter:
+      name: "{community} på X"
+      description: Følg os på X
+    x:
+      name: "{community} på X"
+      description: Følg os på X
   be-matrix:
     description: Alle kortlæggere er velkomne!
   bg-wiki:
     description: Wikiprojektside for Bulgarien
+  bo-matrix:
+    description: Alle kortlæggere er velkomne!
   cape-coast-youthmappers:
-    description: 'Følg os på Twitter på {url}'
-  Central-Pennsylvania-OSM:
-    name: Central Pennsylvania OSM
+    description: "Følg os på X: {url}"
+  co-facebook:
+    name: "{community}-gruppen på Facebook"
+  co-mastodon:
+    name: "Indlæg fra {community} på Mastodon"
+  co-talk:
+    name: "{community} mailing-liste"
   de-berlin-mailinglist:
     name: Berlin maillingliste
-  de-viersen-meetup:
-    name: OpenStreetMap Viersen Meetup
   dk-discourse:
     description: Et debatforum om OpenStreetMap i Danmark
-  GeoPhilly:
-    name: GeoPhilly
-  Maptime-ME-meetup:
-    name: MaptimeME
   Maptime-Oceania-Slack:
-    name: Maptime Oceania Slack
-    description: Tilmeld dig på  {signupUrl}
+    description: "Tilmeld dig på  {signupUrl}"
+  me-telegram:
+    description: "Alle er velkomne! Tilmeld dig på {signupUrl}"
+  nl-matrix:
+    description: Alle kortlæggere er velkomne!
+  Open-Source-San-Jose-Discord:
+    description: "Kom i kontakt med andre kortlæggere på Discord! Når du har tilmeldt dig, kan du tilslutte dig #\U0001F5FAopenstreetmap-kanalen."
   OpenCleveland-meetup:
-    name: Open Cleveland
     description: Forbedr OpenStreetMap i Cleveland området
-  OSM-Boston:
-    name: OpenStreetMap Boston
+  osm-africa-matrix:
+    description: Alle kortlæggere er velkomne!
+  osm-africa-slack:
+    description: "Alle er velkomne! Tilmeld dig på {signupUrl}"
   OSM-Chattanooga:
     name: OpenStreetMap Colombia Twitter
     description: OpenStreetMap brugergruppen for Chattanooga
-  OSM-Colorado:
-    name: OpenStreetMap Colorado
+  OSM-Discord:
+    name: OpenStreetMap World-Discord
+    description: "Uofficielle, fællesskabsdrevne Discord-servere til det globale OpenStreetMap-fællesskab. Regionale kanaler er tilgængelige."
+  OSM-Discourse:
+    name: OpenStreetMap-fællesskabsforum
+    description: Et fælles forum for samtaler om OpenStreetMap
   OSM-Facebook:
     description: Like os på Facebook for nyheder og opdateringer om OpenStreetMap.
-  OSM-help:
-    name: OpenStreetMap Hjælp
-    description: Stil et spørgsmål og få svar på OSM's fællesskabs-drevne spørgsmål- og svar side.
-    extendedDescription: '{url} er for alle der har brug for hjælp med OpenStreetMap. Hvad enten du er en begynder eller har et teknisk spørgsmål, er vi her for at hjælpe!'
-  OSM-India-Puducherry-Matrix:
-    name: Free Software Hardware Movement - Matrix
   OSM-india-twitter:
-    description: 'Vi er kun et tweet væk: {url}'
+    description: "Vi er kun et tweet væk: {url}"
   OSM-japan-facebook:
     description: Kortlæggere og OpenStreetMap brugere i Japan
   OSM-japan-website:
     description: Kortlæggere og OpenStreetMap brugere i Japan
   OSM-Kerala-facebook:
     description: Forbedr OpenStreetMap i Kerala
-  OSM-Portland:
-    name: OpenStreetMap Portland
-  OSM-Portland-forum:
-    name: OpenStreetMap PDX Google gruppen
   OSM-Rome-meetup:
     description: Forbedr OpenStreetMap i Rom området
-  OSM-Seattle:
-    name: OpenStreetMap Seattle
-  OSM-SoCal:
-    name: OpenStreetMap Southern California
-  OSM-South-Bay:
-    name: OSM South Bay
-  OSM-Tampa-Bay:
-    name: OpenStreetMap Tampa Bay
-  OSM-TH-CNX-meetup:
-    name: OSM Meetup Chiang Mai
-  OSM-Utah:
-    name: OpenStreetMap Utah
-  OSM-Wyoming:
-    name: OpenStreetMap Wyoming
+  OSM-Telegram:
+    description: "Tilslut dig OpenStreetMaps globale Telegram-supergruppe på {url}"
+  OSM-US-Slack:
+    description: "Alle er velkomne! Tilmeld dig på {signupUrl}"
   OSMF:
-    name: OpenStreetMap Foundation
     description: OSMF er en UK-baseret non-profit organisation der støtter OpenStreetMap projektet
-  PHXGeo-meetup:
-    name: PHXGeo Meetup
+    extendedDescription: "OSMF støtter OpenStreetMap ved at rejse penge, vedligeholde serverne der driver OSM, organisere den årlige State of the Map konference, og koordinere de frivillige der holder OSM kørende. Du kan vise din støtte og have en stemme i forhold til OpenStreetMaps retning ved at melde dig som OSMF-medlem her: {signupUrl}"
   PHXGeo-twitter:
-    name: PHXGeo Twitter
-    description: Følg os på Twitter på {url}
+    name: PHXGeo på X
+    description: "Følg os på X på {url}"
+  scandinavia-discord:
+    name: Skandinavisk kanal på OpenStreetMap World-Discord
+  tw-slack:
+    description: "Alle er velkomne! Tilmeld dig på {signupUrl}"
+  uk-london-mastodon:
+    name: OpenStreetMap London på Mastodon
+    description: "OpenStreetMap London på Mastodon: {url}"

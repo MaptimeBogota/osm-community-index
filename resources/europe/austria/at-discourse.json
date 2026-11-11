@@ -1,0 +1,12 @@
+{
+  "id": "at-discourse",
+  "type": "discourse",
+  "account": "at",
+  "locationSet": {"include": ["at"]},
+  "languageCodes": ["de"],
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Austria",
+    "communityID": "openstreetmapaustria"
+  }
+}

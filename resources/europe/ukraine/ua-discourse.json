@@ -1,0 +1,12 @@
+{
+  "id": "ua-discourse",
+  "type": "discourse",
+  "account": "ua",
+  "locationSet": {"include": ["ukraine.geojson"]},
+  "languageCodes": ["uk"],
+  "order": 6,
+  "strings": {
+    "community": "OpenStreetMap Ukraine",
+    "communityID": "openstreetmapukraine"
+  }
+}

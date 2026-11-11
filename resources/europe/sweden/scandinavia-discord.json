@@ -1,0 +1,13 @@
+{
+  "id": "scandinavia-discord",
+  "type": "discord",
+  "locationSet": {"include": ["se"]},
+  "languageCodes": ["sv"],
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Sweden",
+    "communityID": "openstreetmapsweden",
+    "name": "Scandinavian channel on OpenStreetMap World Discord",
+    "url": "https://discord.com/channels/413070382636072960/937709499211477092"
+  }
+}

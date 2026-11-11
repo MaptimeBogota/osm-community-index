@@ -20,7 +20,6 @@ ckb:
     openstreetmapbosniaandherzegovina: نەخشەی شەقامی کراوەی بۆسنە و هەرزیگۆڤینا
     openstreetmapbrasil: نەخشەی شەقامی کراوەی بەڕازیل
     openstreetmapbulgaria: نەخشەی شەقامی کراوەی بولگاریا
-    openstreetmapburkinafaso: نەخشەی شەقامی کراوەی بۆرکینا فاسۆ
     openstreetmapburundi: نەخشەی شەقامی کراوەی بروندی
     openstreetmapcambodia: نەخشەی شەقامی کراوەی مەکبۆدیا
     openstreetmapcameroon: نەخشەی شەقامی کراوەی کامیرۆن
@@ -28,9 +27,7 @@ ckb:
     openstreetmapchad: نەخشەی شەقامی کراوەی چاد
     openstreetmapchile: نەخشەی شەقامی کراوەی چیلی
     openstreetmapchina: نەخشەی شەقامی کراوەی چین
-    openstreetmapcolombia: نەخشەی شەقامی کراوەی کۆڵۆمبیا
-    openstreetmapcostarica: نەخشەی شەقامی کراوەی کۆستەریکا
-    openstreetmapcotedivoire: نەخشەی شەقامی کراوەی کۆدیڤوار
+    openstreetmapcotedivoire: "نەخشەی شەقامی کراوەی کۆدیڤوار"
     openstreetmapcroatia: نەخشەی شەقامی کراوەی کڕواتیا
     openstreetmapcuba: نەخشەی شەقامی کراوەی کوبا
     openstreetmapdenmark: نەخشەی شەقامی کراوەی دانیمارک
@@ -54,7 +51,6 @@ ckb:
     openstreetmapguinea: نەخشەی شەقامی کراوەی گینیا
     openstreetmaphaiti: نەخشەی شەقامی کراوەی هایتی
     openstreetmaphamburg: نەخشەی شەقامی کراوەی هامبۆرگ
-    openstreetmaphonduras: نەخشەی شەقامی کراوەی هیندۆراس
     openstreetmaphongkong: نەخشەی شەقامی کراوەی هۆنگ کۆنگ
     openstreetmaphungary: نەخشەی شەقامی کراوەی هەنگاریا
     openstreetmapiceland: نەخشەی شەقامی کراوەی ئایسلەندا
@@ -74,10 +70,8 @@ ckb:
     openstreetmapkerala: نەخشەی شەقامی کراوەی کێرالا
     openstreetmapkorea: نەخشەی شەقامی کراوەی کۆریا
     openstreetmapkosovo: نەخشەی شەقامی کراوەی کۆسۆڤۆ
-    openstreetmapkyrgyzstan: نەخشەی شەقامی کراوەی قیڕغزستان
     openstreetmaplatinamerica: نەخشەی شەقامی کراوەی ئەمریکای لاتینی
     openstreetmaplatvia: نەخشەی شەقامی کراوەی لاتیڤیا
-    openstreetmaplebanon: نەخشەی شەقامی کراوەی لوبنان
     openstreetmaplesotho: نەخشەی شەقامی کراوەی لیسۆتۆ
     openstreetmapliberia: نەخشەی شەقامی کراوەی لیبیریا
     openstreetmaplibya: نەخشەی شەقامی کراوەی لیبیا
@@ -125,7 +119,6 @@ ckb:
     openstreetmapsudan: نەخشەی شەقامی کراوەی سودان
     openstreetmapsweden: نەخشەی شەقامی کراوەی سوێد
     openstreetmapswitzerland: نەخشەی شەقامی کراوەی سویسڕا
-    openstreetmapsyria: نەخشەی شەقامی کراوەی سوریا
     openstreetmaptaiwan: نەخشەی شەقامی کراوەی تایوان
     openstreetmaptanzania: نەخشەی شەقامی کراوەی تەنزانیا
     openstreetmapthailand: نەخشەی شەقامی کراوەی تایلەند
@@ -145,113 +138,94 @@ ckb:
     openstreetmapzambia: نەخشەی شەقامی کراوەی زامبیا
     openstreetmapzimbabwe: نەخشەی شەقامی کراوەی زیمبابۆی
   _defaults:
-    aparat:
-      url: https://aparat.com/{account}
     discord:
-      name: '{community} دیسکۆرد'
-      url: https://discord.gg/{account}
-    discourse:
-      url: https://community.openstreetmap.org/c/communities/{account}
+      name: "{community} دیسکۆرد"
     facebook:
-      name: '{community} لە فەیسبووک'
+      name: "{community} لە فەیسبووک"
       description: لەگەڵمان بن لەسەر فەیسبووک
-      url: https://www.facebook.com/{account}
     github:
-      name: '{community} گیتهەب'
-      url: https://github.com/{account}
+      name: "{community} گیتهەب"
     gitlab:
-      name: '{community} گیتلاب'
-      url: https://gitlab.com/{account}
-    group:
-      name: '{community}'
-    irc:
-      url: https://webchat.oftc.net/?channels={account}
+      name: "{community} گیتلاب"
     linkedin:
-      name: '{community} لە لینکدئین'
+      name: "{community} لە لینکدئین"
       description: لەگەڵمان بن لەسەر لینکدئین
-      url: https://www.linkedin.com/company/{account}
-    mailinglist:
-      url: https://lists.openstreetmap.org/listinfo/{account}
     mastodon:
-      name: '{community} لەسەر ماستادۆن'
-      description: هەژماری فەرمی {community} لە ماستادۆن
-    matrix:
-      url: https://matrix.to/#/{account}:matrix.org
+      name: "{community} لەسەر ماستادۆن"
+      description: "هەژماری فەرمی {community} لە ماستادۆن"
     meetup:
-      name: '{community} میتئەپ'
-      url: https://www.meetup.com/{account}
-    osm:
-      name: '{community}'
-    osm-lc:
-      name: '{community}'
+      name: "{community} میتئەپ"
     reddit:
-      name: '{community} لە ڕێدیت'
-      url: https://www.reddit.com/r/{account}
+      name: "{community} لە ڕێدیت"
     signal:
-      name: '{community} سیگنال'
+      name: "{community} سیگنال"
       description: لەگەڵمان بن لەسەر سیگنال
     slack:
-      name: '{community} سلاک'
+      name: "{community} سلاک"
     telegram:
-      name: '{community} تێلیگرام'
+      name: "{community} تێلیگرام"
       description: لەگەڵمان بن لە تێلیگرام
-      url: https://t.me/{account}
-    threads:
-      url: https://threads.net/@{account}
-    twitter:
-      url: https://twitter.com/{account}
-    website:
-      name: '{community}'
-    wiki:
-      url: https://wiki.openstreetmap.org/wiki/{account}
-    x:
-      url: https://twitter.com/{account}
     youtube:
-      name: '{community} لە یوتیوب'
-      url: https://www.youtube.com/channel/{account}
+      name: "{community} لە یوتیوب"
+  am-wiki:
+    description: "پەڕەی ویکیی {community}"
   at-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   be-matrix:
     description: بۆ هەموو نەخشەسازان کراوەیە.
   bo-matrix:
     description: بۆ هەموو نەخشەسازان کراوەیە.
   de-aachen-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-berlin-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-bochum-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-bonn-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-bremen-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-cologne-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-dresden-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-dusseldorf-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-luneburg-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   de-munchen-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   fr-35-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   fr-38-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   fr-montrouge-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
+  hr-github:
+    description: "{community} گیتهەب"
   hu-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
+  ko-github:
+    description: "{community} گیتهەب"
+  nl-matrix:
+    description: بۆ هەموو نەخشەسازان کراوەیە.
+  osm-africa-matrix:
+    description: بۆ هەموو نەخشەسازان کراوەیە.
   osm-deep-south-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   osm-michigan-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   osm-ohio-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
+  sg-wiki:
+    description: "پەڕەی ویکیی {community}"
+  si-github:
+    description: "{community} گیتهەب"
   si-ljubljana-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   si-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
   uk-london-wiki:
-    description: 'پەڕەی ویکیی {community}'
+    description: "پەڕەی ویکیی {community}"
+  vn-wiki:
+    description: "پەڕەی ویکیی {community}"

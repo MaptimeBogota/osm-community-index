@@ -1,0 +1,14 @@
+{
+  "id": "co-mastodon",
+  "type": "mastodon",
+  "locationSet": {"include": ["co"]},
+  "languageCodes": ["es"],
+  "order": 8,
+  "strings": {
+    "community": "OSM Colombia",
+    "communityID": "osmcolombia",
+    "name": "Posts by {community} on Mastodon",
+    "description": "Publications on community activities or information",
+    "url": "https://en.osm.town/@OSM_Colombia"
+  }
+}

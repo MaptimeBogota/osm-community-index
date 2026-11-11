@@ -4,14 +4,15 @@
   "account": "OsmCol",
   "locationSet": {"include": ["co"]},
   "languageCodes": ["es"],
-  "order": 1,
+  "order": 2,
   "strings": {
-    "community": "OpenStreetMap Colombia",
-    "communityID": "openstreetmapcolombia",
-    "extendedDescription": "Join the community to learn more about OpenStreetMap. Everyone is welcome!",
+    "community": "OSM Colombia",
+    "communityID": "osmcolombia",
+    "name": "Group of {community} on Facebook",
+    "description": "Conversation group on OSM issues in Colombia",
     "url": "https://www.facebook.com/groups/OsmCol"
   },
   "contacts": [
-    {"name": "Fredy Rivera", "email": "fredyrivera@gmail.com"}
+    {"name": "Contacto Colombia", "email": "colombia@osm.lat"}
   ]
 }

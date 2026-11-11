@@ -1,0 +1,12 @@
+{
+  "id": "id-discourse",
+  "type": "discourse",
+  "account": "id",
+  "locationSet": {"include": ["id"]},
+  "languageCodes": ["id"],
+  "order": 5,
+  "strings": {
+    "community": "OpenStreetMap Indonesia",
+    "communityID": "openstreetmapindonesia"
+  }
+}

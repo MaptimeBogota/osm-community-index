@@ -1,0 +1,17 @@
+{
+  "id": "co-linkedin",
+  "type": "linkedin",
+  "account": "osmcolombia",
+  "locationSet": {"include": ["co"]},
+  "languageCodes": ["es"],
+  "order": 11,
+  "strings": {
+    "community": "OSM Colombia",
+    "communityID": "osmcolombia",
+    "name": "Posts by {community} on LinkedIn",
+    "description": "Publications on community activities or information"
+  },
+  "contacts": [
+    {"name": "Contacto Colombia", "email": "colombia@osm.lat"}
+  ]
+}

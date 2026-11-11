@@ -1,32 +1,25 @@
 lt:
-  al-maptime-tirana:
-    name: Maptime Tirana
-  cape-coast-youthmappers:
-    description: 'Sek mus per Twitter: {url}'
+  _communities:
+    openstreetmapaustria: OpenStreetMap Austrija
+    openstreetmapbangladesh: OpenStreetMap Bangladešas
+    openstreetmapbelarus: OpenStreetMap Baltarusija
+    openstreetmapgermany: OpenStreetMap Vokietija
+    openstreetmapindonesia: OpenStreetMap Indonezija
+    openstreetmapjapan: OpenStreetMap Japonija
+    openstreetmapmongolia: OpenStreetMap Mongolija
+    openstreetmapmyanmar: OpenStreetMap Mianmaras
+    openstreetmapnepal: OpenStreetMap Nepalas
+    openstreetmapperu: OpenStreetMap Peru
+    openstreetmapsrilanka: OpenStreetMap Šri Lanka
+    openstreetmapus: OpenStreetMap JAV
   de-berlin-mailinglist:
     name: Berlynas Mailing List
-  de-ostwestfalen-lippe-mailinglist:
-    name: OWL Mailing List
-  GeoPhilly:
-    name: GeoPhilly
-  Maptime-ME-meetup:
-    name: MaptimeME
-  OSM-Boston:
-    name: OpenStreetMap Bostonas
   OSM-Chattanooga:
     name: OSM Čatanuga
   OSM-Colorado:
     name: OpenStreetMap Koloradas
-  OSM-help:
-    name: OpenStreetMap Pagalba
-  OSM-Portland:
-    name: OpenStreetMap Portlandas
-  osm-se:
-    name: OpenStreetMap.se
   OSM-Seattle:
     name: OpenStreetMap Siatlas
-  OSM-SoCal:
-    name: OpenStreetMap Pietinė Kalifornija
   OSM-Tampa-Bay:
     name: OpenStreetMap Tampos įlanka
   OSM-Utah:
@@ -35,5 +28,3 @@ lt:
     name: OpenStreetMap Vajomingas
   OSMF:
     name: OpenStreetMap Fondas
-  PHXGeo-twitter:
-    name: PHXGeo Twitter

@@ -1,0 +1,12 @@
+{
+  "id": "my-discourse",
+  "type": "discourse",
+  "account": "my",
+  "locationSet": {"include": ["id"]},
+  "languageCodes": ["en", "ms"],
+  "order": 2,
+  "strings": {
+    "community": "OpenStreetMap Malaysia",
+    "communityID": "openstreetmapmalaysia"
+  }
+}

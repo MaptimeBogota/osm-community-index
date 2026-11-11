@@ -3,40 +3,28 @@ fi:
     openstreetmap: OpenStreetMap
     openstreetmapafghanistan: OpenStreetMap Afganistan
     openstreetmapafrica: OpenStreetMap Afrikka
-    openstreetmapalbania: OpenStreetMap Albania
     openstreetmapargentina: OpenStreetMap Argentiina
     openstreetmapasia: OpenStreetMap Aasia
     openstreetmapaustria: OpenStreetMap Itävalta
-    openstreetmapbahia: OpenStreetMap Bahia
-    openstreetmapbangladesh: OpenStreetMap Bangladesh
     openstreetmapbelarus: OpenStreetMap Valkovenäjä
     openstreetmapbelgium: OpenStreetMap Belgia
-    openstreetmapbenin: OpenStreetMap Benin
     openstreetmapberlin: OpenStreetMap Berliini
-    openstreetmapbolivia: OpenStreetMap Bolivia
     openstreetmapbosniaandherzegovina: OpenStreetMap Bosnia ja Hertsegovina
-    openstreetmapbremen: OpenStreetMap Bremen
-    openstreetmapbulgaria: OpenStreetMap Bulgaria
-    openstreetmapburkinafaso: OpenStreetMap Burkina Faso
-    openstreetmapburundi: OpenStreetMap Burundi
     openstreetmapcambodia: OpenStreetMap Kambodža
     openstreetmapcameroon: OpenStreetMap Kamerun
     openstreetmapcanada: OpenStreetMap Kanada
     openstreetmapchad: OpenStreetMap Tšad
-    openstreetmapchile: OpenStreetMap Chile
     openstreetmapchina: OpenStreetMap Kiina
-    openstreetmapcolombia: OpenStreetMap Kolumbia
-    openstreetmapcostarica: OpenStreetMap Costa Rica
-    openstreetmapcotedivoire: OpenStreetMap Norsunluurannikko
+    openstreetmapcotedivoire: "OpenStreetMap Norsunluurannikko"
     openstreetmapcroatia: OpenStreetMap Kroatia
     openstreetmapcuba: OpenStreetMap Kuuba
+    openstreetmapcyprus: OpenStreetMap Kypros
+    openstreetmapdelhi: OpenStreetMap Delhi
     openstreetmapdenmark: OpenStreetMap Tanska
-    openstreetmapdjibouti: OpenStreetMap Djibouti
     openstreetmapdominicanrepublic: OpenStreetMap Dominikaaninen tasavalta
-    openstreetmapecuador: OpenStreetMap Ecuador
     openstreetmapegypt: OpenStreetMap Egypti
-    openstreetmaperitrea: OpenStreetMap Eritrea
     openstreetmapespana: OpenStreetMap Espanja
+    openstreetmapestonia: OpenStreetMap Viro
     openstreetmapethiopia: OpenStreetMap Etiopia
     openstreetmapfinland: OpenStreetMap Suomi
     openstreetmapfrance: OpenStreetMap Ranska
@@ -45,12 +33,10 @@ fi:
     openstreetmaphungary: OpenStreetMap Unkari
     openstreetmapiceland: OpenStreetMap Islanti
     openstreetmapindia: OpenStreetMap Intia
-    openstreetmapiran: OpenStreetMap Iran
     openstreetmapiraq: OpenStreetMap Irak
     openstreetmapireland: OpenStreetMap Irlanti
     openstreetmapitaly: OpenStreetMap Italia
     openstreetmapjapan: OpenStreetMap Japani
-    openstreetmapkorea: OpenStreetMap Korea
     openstreetmaplatinamerica: OpenStreetMap Latinalainen Amerikka
     openstreetmaplithuania: OpenStreetMap Liettua
     openstreetmaplondon: OpenStreetMap Lontoo
@@ -60,10 +46,8 @@ fi:
     openstreetmappoland: OpenStreetMap Puola
     openstreetmapportugal: OpenStreetMap Portugali
     openstreetmaprussia: OpenStreetMap Venäjä
-    openstreetmapserbia: OpenStreetMap Serbia
     openstreetmapsweden: OpenStreetMap Ruotsi
     openstreetmapswitzerland: OpenStreetMap Sveitsi
-    openstreetmapsyria: OpenStreetMap Syyria
     openstreetmapthailand: OpenStreetMap Thaimaa
     openstreetmapturkey: OpenStreetMap Turkki
     openstreetmapus: OpenStreetMap Yhdysvallat
@@ -72,14 +56,21 @@ fi:
       description: Liity yhteisöömme Facebookissa
     linkedin:
       description: Liity yhteisöömme LinkedIn:ssä
+    whatsapp:
+      description: Liityy yhteisöön Whatsapp-ryhmächatissa
+  co-github:
+    name: "{community}projektit GitHubissa"
+    description: Yhteisön kehittämät koodiprojektit
+  Galicia-Xeoinquedos-Twitter:
+    description: "Seuraa meitä X:ssä osoitteessa {url}"
+  it-emilia-romagna-telegram:
+    description: "Kaikki ovat tervetulleita! Voit liittyä chattiin tällä linkillä: {url}"
   OSM-Facebook:
     description: Pysy ajan tasalla tuoreimmista OpenStreetMap-uutisista tykkäämällä meistä Facebookissa.
-  OSM-help:
-    description: Hanki vastauksia kysymyksiisi OpenStreetMapin yhteisön ylläpitämällä vastausfoorumilla.
   OSM-India-facebook:
     description: Paranna Intian OpenStreetMapia
   OSMF:
     name: OpenStreetMap-säätiö
     description: OSMF on Iso-Britanniasta toimiva voittoa tavoittelematon, OpenStreetMapin toimintaa edistävä säätiö
-  PHXGeo-twitter:
-    description: Seuraa Twitter-tiliämme osoitteessa {url}
+  sicilia-telegram:
+    description: "Kaikki ovat tervetulleita! Liity tästä linkistä: {url}"

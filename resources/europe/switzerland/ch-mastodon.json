@@ -1,0 +1,11 @@
+{
+  "id": "ch-mastodon",
+  "type": "mastodon",
+  "locationSet": {"include": ["ch"]},
+  "languageCodes": ["de", "en"],
+  "strings": {
+    "community": "Swiss OpenStreetMap",
+    "communityID": "swissopenstreetmap",
+    "url": "https://en.osm.town/@SwissOSM"
+  }
+}

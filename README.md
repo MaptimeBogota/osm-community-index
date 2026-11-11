@@ -1,4 +1,4 @@
-[![build](https://github.com/osmlab/osm-community-index/workflows/build/badge.svg)](https://github.com/osmlab/osm-community-index/actions?query=workflow%3A%22build%22)
+[![build](https://github.com/osmlab/osm-community-index/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/osmlab/osm-community-index/actions/workflows/build.yml)
 [![npm version](https://badge.fury.io/js/osm-community-index.svg)](https://badge.fury.io/js/osm-community-index)
 [![](https://data.jsdelivr.com/v1/package/npm/osm-community-index/badge?style=rounded)](https://www.jsdelivr.com/package/npm/osm-community-index)
 
@@ -14,7 +14,7 @@
 
 This project is a list of resources for users of OpenStreetMap.
 
-"Resources" can be links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
+"Resources" can be links to forums, meetups, social networks, websites, etc.
 Anything that mappers, especially beginners, might find interesting or helpful.
 
 
@@ -31,19 +31,16 @@ Anything that mappers, especially beginners, might find interesting or helpful.
 See [the project wiki](https://github.com/osmlab/osm-community-index/wiki) for details.
 
 
-## Participate!
+## Contributing
 
-We're always looking for help!
+See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more info.
 
-- Read [the Code of Conduct](CODE_OF_CONDUCT.md) and remember to be kind to one another.
-- See [the project wiki](https://github.com/osmlab/osm-community-index/wiki) for info about how to contribute to this index.
+See [the project wiki](https://github.com/osmlab/osm-community-index/wiki) for information about the index.
 
-If you have any questions or want to reach out to a maintainer, ping
-[@bhousel][@bhousel] or [@aawiseman][@aawiseman] on:
+If you have any questions or want to reach out to a maintainer, ping [@bhousel][@bhousel] on:
 - [OpenStreetMap US Slack](https://slack.openstreetmap.us/) (`#general` channel)
 
 [@bhousel]: https://github.com/bhousel
-[@aawiseman]: https://github.com/aawiseman
 
 
 ## License
@@ -52,4 +49,4 @@ If you have any questions or want to reach out to a maintainer, ping
 See the [LICENSE.md](LICENSE.md) file for more details.
 
 This project also bundles some icons from [FontAwesome](https://fontawesome.com/).
-The icons are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+The icons are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

@@ -4,7 +4,7 @@
   "account": "OpenStreetMap.hu",
   "locationSet": {"include": ["hu"]},
   "languageCodes": ["hu"],
-  "order": 3,
+  "order": 2,
   "strings": {
     "community": "OpenStreetMap Hungary",
     "communityID": "openstreetmaphungary"

@@ -1,69 +1,35 @@
 hu:
   _communities:
-    freelibreopensourcesoftwarekosovaflossk: Free Libre Open Source Software Kosova (FLOSSK)
-    geolibres: GeoLibres
-    kiribatiwomeninmapping: Kiribati Women in Mapping
-    mappingbotswana: Mapping Botswana
-    maptimebogota: MaptimeBogota
-    maptimehrva: MaptimeHRVA
-    openstreetmap: OpenStreetMap
-    openstreetmapaachen: OpenStreetMap Aachen
+    kiribatiwomeninmapping: Kiribati Nők a Térképészetben
+    openstreetmap: Openstreetmap
     openstreetmapafghanistan: OpenStreetMap Afganisztán
     openstreetmapafrica: OpenStreetMap Afrika
-    openstreetmapalba: OpenStreetMap Alba
     openstreetmapalbania: OpenStreetMap Albánia
     openstreetmapargentina: OpenStreetMap Argentína
     openstreetmaparmenia: OpenStreetMap Örményország
     openstreetmapasia: OpenStreetMap Ázsia
-    openstreetmapasti: OpenStreetMap Asti
     openstreetmapaustria: OpenStreetMap Ausztria
-    openstreetmapbahia: OpenStreetMap Bahia
     openstreetmapbangladesh: OpenStreetMap Banglades
     openstreetmapbelarus: OpenStreetMap Fehéroroszország
-    openstreetmapbelgium: OpenStreetMap Belgium
-    openstreetmapbelize: OpenStreetMap Belize
-    openstreetmapbenin: OpenStreetMap Benin
-    openstreetmapberlin: OpenStreetMap Berlin
-    openstreetmapbivccvl: OpenStreetMap BI-VC-CVL
-    openstreetmapbochum: OpenStreetMap Bochum
     openstreetmapbolivia: OpenStreetMap Bolívia
-    openstreetmapbonn: OpenStreetMap Bonn
     openstreetmapbosniaandherzegovina: OpenStreetMap Bosznia-Hercegovina
     openstreetmapbrasil: OpenStreetMap Brazília
     openstreetmapbrasilia: OpenStreetMap Brazíliaváros
     openstreetmapbremen: OpenStreetMap Bréma
     openstreetmapbulgaria: OpenStreetMap Bulgária
-    openstreetmapburkinafaso: OpenStreetMap Burkina Faso
-    openstreetmapburundi: OpenStreetMap Burundi
-    openstreetmapbzh: OpenStreetMap BZH
     openstreetmapcambodia: OpenStreetMap Kambodzsa
     openstreetmapcameroon: OpenStreetMap Kamerun
     openstreetmapcanada: OpenStreetMap Kanada
-    openstreetmapcastillayleon: OpenStreetMap Castilla y León
-    openstreetmapcatalancountries: OpenStreetMap Catalan Countries
-    openstreetmapceara: OpenStreetMap Ceará
     openstreetmapchad: OpenStreetMap Csád
-    openstreetmapchile: OpenStreetMap Chile
     openstreetmapchina: OpenStreetMap Kína
     openstreetmapcologne: OpenStreetMap Köln
-    openstreetmapcolombia: OpenStreetMap Kolumbia
-    openstreetmapcomunitatvalenciana: OpenStreetMap Comunitat Valenciana
-    openstreetmapcostarica: OpenStreetMap Costa Rica
-    openstreetmapcotedivoire: OpenStreetMap Cote d'Ivoire
     openstreetmapcroatia: OpenStreetMap Horvátország
     openstreetmapcuba: OpenStreetMap Kuba
-    openstreetmapcuneo: OpenStreetMap Cuneo
-    openstreetmapcz: OpenStreetMap CZ
-    openstreetmapde: OpenStreetMap DE
-    openstreetmapdeepsouth: OpenStreetMap Deep South
     openstreetmapdenmark: OpenStreetMap Dánia
     openstreetmapdjibouti: OpenStreetMap Dzsibuti
     openstreetmapdominicanrepublic: OpenStreetMap Dominikai Köztársaság
     openstreetmapdresden: OpenStreetMap Drezda
-    openstreetmapdusseldorf: OpenStreetMap Düsseldorf
-    openstreetmapecuador: OpenStreetMap Ecuador
     openstreetmapegypt: OpenStreetMap Egyiptom
-    openstreetmaperitrea: OpenStreetMap Eritrea
     openstreetmapespana: OpenStreetMap Spanyolország
     openstreetmapestonia: OpenStreetMap Észtország
     openstreetmapethiopia: OpenStreetMap Etiópia
@@ -73,421 +39,273 @@ hu:
     openstreetmapfreemapslovakia: OpenStreetMap Freemap Szlovákia
     openstreetmapfrenchguiana: OpenStreetMap Francia Guiana
     openstreetmapfrenchpolynesia: OpenStreetMap Francia Polinézia
-    openstreetmapgabon: OpenStreetMap Gabon
-    openstreetmapgalicia: OpenStreetMap Galicia
-    openstreetmapgeorgia: OpenStreetMap Georgia
+    openstreetmapgalicia: OpenStreetMap Galícia
     openstreetmapgermany: OpenStreetMap Németország
     openstreetmapghana: OpenStreetMap Ghána
-    openstreetmapgorakalwaria: OpenStreetMap Góra Kalwaria
     openstreetmapgreece: OpenStreetMap Görögország
-    openstreetmapgrenoble: OpenStreetMap Grenoble
-    openstreetmapguatemala: OpenStreetMap Guatemala
-    openstreetmapguinea: OpenStreetMap Guinea
-    openstreetmaphaiti: OpenStreetMap Haiti
-    openstreetmaphamburg: OpenStreetMap Hamburg
-    openstreetmaphonduras: OpenStreetMap Honduras
     openstreetmaphongkong: OpenStreetMap Hongkong
     openstreetmaphungary: OpenStreetMap Magyarország
     openstreetmapiceland: OpenStreetMap Izland
-    openstreetmapindia: OpenStreetMap India
     openstreetmapindonesia: OpenStreetMap Indonézia
     openstreetmapiran: OpenStreetMap Irán
     openstreetmapiraq: OpenStreetMap Irak
     openstreetmapireland: OpenStreetMap Írország
     openstreetmapisrael: OpenStreetMap Izrael
     openstreetmapitaly: OpenStreetMap Olaszország
-    openstreetmapitalylazio: OpenStreetMap Italy-Lazio
-    openstreetmapitalylombardia: OpenStreetMap Italy-Lombardia
-    openstreetmapitalypiemonte: OpenStreetMap Italy-Piemonte
-    openstreetmapitalysouthtyrol: OpenStreetMap Italy-South Tyrol
-    openstreetmapitalytrentino: OpenStreetMap Italy-Trentino
+    openstreetmapitalylazio: OpenStreetMap Olaszország, Lazio
+    openstreetmapitalylombardia: OpenStreetMap Olaszország, Lombardia
+    openstreetmapitalypiemonte: OpenStreetMap Olaszország, Piemonte
+    openstreetmapitalytrentino: OpenStreetMap Olaszország, Trentino
     openstreetmapjapan: OpenStreetMap Japán
-    openstreetmapkarlsruhe: OpenStreetMap Karlsruhe
     openstreetmapkazakhstan: OpenStreetMap Kazahsztán
-    openstreetmapkenya: OpenStreetMap Kenya
-    openstreetmapkerala: OpenStreetMap Kerala
-    openstreetmapkorea: OpenStreetMap Korea
     openstreetmapkosovo: OpenStreetMap Koszovó
-    openstreetmapkyrgyzstan: OpenStreetMap Kirgizisztán
-    openstreetmaplatinamerica: OpenStreetMap Latin America
+    openstreetmaplatinamerica: OpenStreetMap Latin-Amerika
     openstreetmaplatvia: OpenStreetMap Lettország
-    openstreetmaplebanon: OpenStreetMap Libanon
-    openstreetmaplesotho: OpenStreetMap Lesotho
     openstreetmapliberia: OpenStreetMap Libéria
     openstreetmaplibya: OpenStreetMap Líbia
     openstreetmaplithuania: OpenStreetMap Litvánia
-    openstreetmapljubljana: OpenStreetMap Ljubljana
-    openstreetmaplombardia: OpenStreetMap Lombardia
-    openstreetmaplondon: OpenStreetMap London
-    openstreetmapluneburg: OpenStreetMap Lüneburg
     openstreetmapluxembourg: OpenStreetMap Luxemburg
     openstreetmapmadagascar: OpenStreetMap Madagaszkár
-    openstreetmapmadrid: OpenStreetMap Madrid
-    openstreetmapmalawi: OpenStreetMap Malawi
     openstreetmapmalaysia: OpenStreetMap Malajzia
-    openstreetmapmali: OpenStreetMap Mali
     openstreetmapmalta: OpenStreetMap Málta
     openstreetmapmauritania: OpenStreetMap Mauritánia
-    openstreetmapmecklenburgvorpommern: OpenStreetMap Mecklenburg-Vorpommern
     openstreetmapmexico: OpenStreetMap Mexikó
-    openstreetmapmichigan: OpenStreetMap Michigan
-    openstreetmapmoldova: OpenStreetMap Moldova
     openstreetmapmongolia: OpenStreetMap Mongólia
-    openstreetmapmontrouge: OpenStreetMap Montrouge
+    openstreetmapmontenegro: OpenStreetMap Montenegró
     openstreetmapmorocco: OpenStreetMap Marokkó
-    openstreetmapmunchen: OpenStreetMap München
-    openstreetmapmyanmar: OpenStreetMap Myanmar
+    openstreetmapmyanmar: OpenStreetMap Mianmar
     openstreetmapnepal: OpenStreetMap Nepál
     openstreetmapnetherlands: OpenStreetMap Hollandia
-    openstreetmapnicaragua: OpenStreetMap Nicaragua
-    openstreetmapniger: OpenStreetMap Niger
     openstreetmapnigeria: OpenStreetMap Nigéria
     openstreetmapnorthkorea: OpenStreetMap Észak-Korea
     openstreetmapnorway: OpenStreetMap Norvégia
     openstreetmapoceania: OpenStreetMap Óceánia
-    openstreetmapohio: OpenStreetMap Ohio
-    openstreetmapottawa: OpenStreetMap Ottawa
     openstreetmappakistan: OpenStreetMap Pakisztán
-    openstreetmappanama: OpenStreetMap Panama
-    openstreetmapparaguay: OpenStreetMap Paraguay
-    openstreetmapperu: OpenStreetMap Peru
     openstreetmapphilippines: OpenStreetMap Fülöp-szigetek
-    openstreetmappiemonte: OpenStreetMap Piemonte
     openstreetmappoland: OpenStreetMap Lengyelország
     openstreetmapportugal: OpenStreetMap Portugália
-    openstreetmaprdc: OpenStreetMap RDC
-    openstreetmaprennes: OpenStreetMap Rennes
-    openstreetmapreunion: OpenStreetMap Réunion
-    openstreetmapriograndedosul: OpenStreetMap Rio Grande do Sul
     openstreetmapromania: OpenStreetMap Románia
     openstreetmaprussia: OpenStreetMap Oroszország
     openstreetmaprwanda: OpenStreetMap Ruanda
     openstreetmapsaudiarabia: OpenStreetMap Szaúd-Arábia
     openstreetmapsenegal: OpenStreetMap Szenegál
     openstreetmapserbia: OpenStreetMap Szerbia
-    openstreetmapseychelles: OpenStreetMap Seychelle-szigetek
-    openstreetmapsierraleone: OpenStreetMap Sierra Leone
     openstreetmapslovenia: OpenStreetMap Szlovénia
     openstreetmapsomalia: OpenStreetMap Szomália
     openstreetmapsouthafrica: OpenStreetMap Dél-afrikai Köztársaság
     openstreetmapsouthsudan: OpenStreetMap Dél-Szudán
-    openstreetmapsrilanka: OpenStreetMap Sri Lanka
     openstreetmapsudan: OpenStreetMap Szudán
     openstreetmapsweden: OpenStreetMap Svédország
     openstreetmapswitzerland: OpenStreetMap Svájc
-    openstreetmapsyria: OpenStreetMap Szíria
     openstreetmaptaiwan: OpenStreetMap Tajvan
     openstreetmaptanzania: OpenStreetMap Tanzánia
     openstreetmapthailand: OpenStreetMap Thaiföld
-    openstreetmaptogo: OpenStreetMap Togo
-    openstreetmaptoronto: OpenStreetMap Toronto
     openstreetmaptunisia: OpenStreetMap Tunézia
     openstreetmapturin: OpenStreetMap Torino
     openstreetmapturkey: OpenStreetMap Törökország
-    openstreetmapuganda: OpenStreetMap Uganda
-    openstreetmapuk: OpenStreetMap UK
     openstreetmapukraine: OpenStreetMap Ukrajna
-    openstreetmapuruguay: OpenStreetMap Uruguay
-    openstreetmapus: OpenStreetMap US
     openstreetmapuzbekistan: OpenStreetMap Üzbegisztán
-    openstreetmapvenezuela: OpenStreetMap Venezuela
     openstreetmapvietnam: OpenStreetMap Vietnám
     openstreetmapwarszawa: OpenStreetMap Varsó
     openstreetmapwesternsahara: OpenStreetMap Nyugat-Szahara
-    openstreetmapzambia: OpenStreetMap Zambia
-    openstreetmapzimbabwe: OpenStreetMap Zimbabwe
-    youthmappersasu: YouthMappersASU
   _defaults:
-    aparat:
-      url: https://aparat.com/{account}
     discord:
-      name: '{community} Discord'
       description: Lépj kapcsolatba más térképezőkkel a Discordon
-      url: https://discord.gg/{account}
     discourse:
-      name: '{community} Közösségi fórum'
-      description: '{community} hivatalos fóruma'
-      url: https://community.openstreetmap.org/c/communities/{account}
+      name: "{community} Közösségi fórum"
+      description: "{community} hivatalos fóruma"
     facebook:
-      name: '{community} a Facebook-on'
+      name: "{community} a Facebookon"
       description: Csatlakozz közösségünkhöz a Facebookon!
-      url: https://www.facebook.com/{account}
     forum:
-      name: '{community} Fórum'
-      description: '{community} hivatalos fóruma'
-    github:
-      name: '{community} GitHub'
-      url: https://github.com/{account}
-    gitlab:
-      name: '{community} GitLab'
-      url: https://gitlab.com/{account}
-    group:
-      name: '{community}'
+      name: "{community} Fórum"
+      description: "{community} hivatalos fóruma"
     irc:
-      name: '{community} IRC-n'
-      url: https://webchat.oftc.net/?channels={account}
+      name: "{community} IRC-n"
     linkedin:
-      name: '{community} a LinkedIn-en'
-    mailinglist:
-      url: https://lists.openstreetmap.org/listinfo/{account}
+      name: "{community} a LinkedIn-en"
+      description: Csatlakozz a közösségünkhöz LinkedIn-en
     mastodon:
-      description: '{community} hivatalos Mastodon-fiókja'
-    matrix:
-      name: '{community} Matrix Chat'
-      url: https://matrix.to/#/{account}:matrix.org
-    meetup:
-      name: '{community} Meetup'
-      url: https://www.meetup.com/{account}
+      description: "{community} hivatalos Mastodon-fiókja"
     newsletter:
-      name: '{community} hírlevele'
-    osm:
-      name: '{community}'
-    osm-lc:
-      name: '{community}'
+      name: "{community} hírlevele"
     reddit:
-      name: '{community} a Reddit-en'
-      url: https://www.reddit.com/r/{account}
+      name: "{community} a Redditen"
     signal:
-      name: '{community} Signal'
       description: Csatlakozz a közösséghez Signalon
-    slack:
-      name: '{community} Slack'
-    telegram:
-      name: '{community} Telegram'
-      url: https://t.me/{account}
-    twitter:
-      url: https://twitter.com/{account}
-    website:
-      name: '{community}'
-    wiki:
-      name: '{community} WikiProject'
-      url: https://wiki.openstreetmap.org/wiki/{account}
-    xmpp:
-      name: '{community} XMPP'
     youtube:
       description: Iratkozz fel a YouTube csatornánkra!
-      url: https://www.youtube.com/channel/{account}
     zulip:
-      name: '{community} Zulip'
       description: Csatlakozz közösségünk chatjéhez Zulipon
-  aberdeen-discord:
-    name: OSM ABZ Discord
-  al-maptime-tirana:
-    name: Maptime Tirana
+  am-wiki:
+    description: "{community} Wiki-oldal"
   at-wiki:
-    description: '{community} Wiki oldal'
-  Bay-Area-OpenStreetMappers:
-    name: A San Francisco-öböl környéki (Bay Area) OpenStreetMap szerkesztők
-    description: Az OpenStreetMap tökéletesítése a San Francisco-öböl környékén
-    extendedDescription: Ez a csoport az itteni, öbölkörnyéki OpenStreetMap-közösség gyarapításával foglalkozik. Rendezvényeink mindenki számára nyitottak a nyílt forráskódú szoftverek híveitől kezdve a kerékpárosokon, térinformatikusokon és geocaching-játékosokon át bárki másig. Örömmel látunk mindenkit, akit érdekelnek a térképek, a térképészet és a nyílt térképadatok, hogy csatlakozzék csoportunkhoz és részt vegyen a rendezvényeinken.
+    description: "{community} Wiki oldal"
   be-matrix:
-    extendedDescription: A belga OSM közösség fő csevegőszobája. Ne habozz, ha kezdő kérdéseket szeretnél feltenni!
-  be-newsletter:
-    description: A belga közösség negyedéves hírlevele
+    description: Minden térképezőt szívesen látunk!
+    extendedDescription: "A belga OSM közösség fő csevegőszobája. Ne habozz, ha kezdő kérdéseket szeretnél feltenni!"
   bo-facebook-group:
-    name: '{community} Facebook-csoport'
+    name: "{community} Facebook-csoport"
   bo-matrix:
     description: Minden térképezőt szívesen látunk!
-  cape-coast-youthmappers:
-    name: University of Cape Coast YouthMappers
-    description: 'Kövess minket Twitteren: {url}'
-  cd-chapter:
-    name: OpenStreetMap RDC
   Central-Pennsylvania-OSM:
     name: Közép-Pennsylvania OSM
-    description: A Pennsylvania State College főiskolából kinövő online térképészközösség
+    description: "A Pennsylvania State College főiskolából kinövő online térképészközösség"
   comunitat-valenciana-wiki:
-    description: 'Minden, amit a térképezésről tudni kell Valenciában: {url}'
+    description: "Minden, amit a térképezésről tudni kell Valenciában: {url}"
+  de-aachen-wiki:
+    description: "{community} Wiki-oldal"
   de-berlin-mailinglist:
     name: Berlin levelezőlista
   de-berlin-wiki:
-    description: '{community} Wiki oldal'
-  de-berlin-xmpp:
-    name: OpenStreetMap Berlin-Brandenburg XMPP
-    description: 'Join our XMPP Multi-User Chat: {url}'
+    description: "{community} Wiki oldal"
   de-bochum-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   de-bonn-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   de-bremen-mailinglist:
     name: Bréma levelezőlista
   de-bremen-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   de-cologne-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   de-dresden-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   de-dusseldorf-wiki:
-    description: '{community} Wiki oldal'
-  de-hamburg-xmpp:
-    name: OpenStreetMap Hamburg XMPP
+    description: "{community} Wiki oldal"
   de-karlsruhe-mailinglist:
     name: Karlsruhe levelezőlista
   de-luneburg-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   de-munchen-wiki:
-    description: '{community} Wiki oldal'
-  de-telegram:
-    name: OpenStreetMap D-A-CH Telegram
-  de-xmpp:
-    name: OpenStreetMap DE XMPP
+    description: "{community} Wiki oldal"
   ee-wiki:
     description: Az Észtországra jellemző térképezési tevékenységgel kapcsolatos információk.
   fr-35-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   fr-38-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   fr-discord:
     name: Discord OpenStreetMap közösség Franciaországban
   fr-montrouge-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   GeoPhilly:
-    name: GeoPhilly
     description: Térképrajongók találkozója Philadelphia térségében
   hu-facebook-group:
-    name: '{community} Facebook-csoport'
-  hu-meetup:
-    description: A találkozók szervezéséhez használt platform Magyarországon
+    name: "{community} Facebook-csoport"
   hu-mobilizon:
     description: Az OpenStreetMap Magyarország közelgő eseményei
   hu-tm:
     description: Aktív térképezési feladatok Magyarországon
-  hu-website:
-    description: OpenStreetMap bővítés és fejlesztés Magyarországon
   hu-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
+  id-facebook:
+    extendedDescription: "Térképezés Indonéziában? Kérdése van, szeretne kapcsolatba lépni az itteni közösséggel? Csatlakozzon hozzánk a {url} oldalon. Mindenkit szeretettel várunk!"
   id-facebook-group:
-    name: '{community} Facebook csoport'
-    extendedDescription: Térképezés Indonéziában? Kérdése van, szeretne kapcsolatba lépni az itteni közösséggel? Csatlakozzon hozzánk a {url} oldalon. Mindenkit szeretettel várunk!
-  ireland-meetup:
-    description: Találkozók mindazok számára, akiket érdekel az OpenStreetMap
+    name: "{community} Facebook csoport"
+    extendedDescription: "Térképezés Indonéziában? Kérdése van, szeretne kapcsolatba lépni az itteni közösséggel? Csatlakozzon hozzánk a {url} oldalon. Mindenkit szeretettel várunk!"
+  madrid-uam-ym:
+    name: YouthMappers at UAM
+    description: YouthMappers chapter at Universidad Autonoma de Madrid
   madrid-upm-ym:
-    name: Mapeo Humanitario
+    description: YouthMappers chapter at Universidad Politécnica de Madrid
+    extendedDescription: "Geo-volunteering group formed at Moncloa Campus on November 2017. Around 20 members from three Universities (Complutense, CEU and UPM). Undergraduate students, MSc and PhD students collaborate together with organizations (MSF, Acción contra el Hambre,...) supported by trainers from Geoinquietos. Official recognition by UPM as Educative Innovation Project (Code  IE1718.0411)"
   madrid-wiki:
-    description: 'Minden, amit Madrid térképezéséről tudni kell: {url}'
-  map-kibera:
-    name: Map Kibera Trust
-  MapABQ:
-    name: MapABQ
-    description: Az OpenStreetMap felhasználók havi találkozója Albuquerque-ben és Észak Új-Mexikóban
-    extendedDescription: Bárki csatlakozhat, és szívesen segítünk a térképezésben. A találkozók nyílt formában zajlanak, hogy a résztvevők az OpenStreetMap Albuquerque és környéke térképének bővítésére koncentrálhassanak.
-  MappingDC-meetup:
-    name: MappingDC
-  MappingWR:
-    name: MappingWR
+    description: "Minden, amit Madrid térképezéséről tudni kell: {url}"
+  maptime-bogota-facebook:
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
+  maptime-bogota-github:
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
+  maptime-bogota-linkedin:
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
+  maptime-bogota-mastodon:
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
   maptime-bogota-meetup:
-    extendedDescription: Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell.
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
+  maptime-bogota-telegram:
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
   maptime-bogota-twitter:
-    name: MaptimeBogotá
     description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
-    extendedDescription: Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
   maptime-bogota-website:
-    name: MaptimeBogotá
     description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
-    extendedDescription: Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell.
-  Maptime-ME-meetup:
-    name: MaptimeME
-  md-googlegroup:
-    name: '{community} Google Group'
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
+  maptime-bogota-youtube:
+    description: Érdeklődők egy csoportja vagyunk, hogy Bogotát és környékét feltérképezzük az OpenStreetMapben.
+    extendedDescription: "Tanuljon meg adatokat gyűjteni a terepen és digitalizálni az OpenStreetMap térképre. Előzetes tudás nem szükséges! Csak a részvétel, a tanulás és a szórakozás iránti vágy kell."
+  me-telegram:
+    description: "Mindenkit szeretettel várunk! Jelentkezzen ezen az oldalon: {signupUrl}"
   nl-matrix:
     description: Minden térképezőt szívesen látunk!
-  OpenCleveland-meetup:
-    name: Open Cleveland
   osm-africa-eventbrite:
-    name: '{community} EventBrite'
-    description: '{community} EventBrite oldal'
+    description: "{community} EventBrite oldal"
   osm-africa-facebook-group:
-    name: '{community} Facebook csoport'
+    name: "{community} Facebook csoport"
   osm-africa-matrix:
     description: Minden térképezőt szívesen látunk!
   osm-africa-slack:
-    description: 'Mindenkit szeretettel várunk! Jelentkezzen ezen az oldalon: {signupUrl}'
-  OSM-AR-geolibres:
-    name: GeoLibres
-    description: Geolibres Civil Association
+    description: "Mindenkit szeretettel várunk! Jelentkezzen ezen az oldalon: {signupUrl}"
   OSM-AR-telegram:
-    extendedDescription: Ez a közösség legaktívabb csatornája, ideális a csevegéshez és a kérdések azonnali megválaszolásához. Mindenkit szeretettel várunk!
+    extendedDescription: "Ez a közösség legaktívabb csatornája, ideális a csevegéshez és a kérdések azonnali megválaszolásához. Mindenkit szeretettel várunk!"
   OSM-AR-wiki:
     description: Minden, amit az argentin térképezésről tudni kell.
-  OSM-Boston:
-    name: OpenStreetMap Boston
-  OSM-Chattanooga:
-    name: OSM Chattanooga
-  osm-cn:
-    description: Segítünk az OpenStreetMap bővítésében és fejlesztésében Kínában.
-  OSM-Colorado:
-    name: OpenStreetMap Colorado
   osm-deep-south-wiki:
-    description: '{community} Wiki-oldal'
-  OSM-Discord:
-    name: OpenStreetMap World Discord
+    description: "{community} Wiki-oldal"
   OSM-Facebook:
     description: A OpenStreetMappel kapcsolatos hírekért és frissítésekért kedvelj minket Facebookon.
-  OSM-help:
-    name: OpenStreetMap Súgó
-    description: Tegyél fel kérdéseket az OSM közösségi kérdezz-felelek oldalán.
-    extendedDescription: '{url} elérhető bárkinek, aki OpenStreetMappel kapcsolatban szeretne segítséget. Ha kezdő szerkesztő vagy, vagy technikai kérdésed van, szívesen segítünk!'
   osm-india-github:
-    description: 'Kódolj velünk: {url}'
+    description: "Kódolj velünk: {url}"
   osm-india-website:
     description: Térképészek és OpenStreetMap felhasználók Indiában
   osm-india-wiki:
-    description: 'Minden, amit tudnod kell az indiai térképezésről: {url}'
+    description: "Minden, amit tudnod kell az indiai térképezésről: {url}"
   OSM-japan-facebook:
     description: Térképészek és OpenStreetMap felhasználók Japánban
   OSM-japan-website:
     description: Térképészek és OpenStreetMap felhasználók Japánban
+  osm-kenya:
+    description: Az OSM Kenya az OSM közreműködők és felhasználók közössége.
   osm-kenya-facebook:
     description: Az OSM Kenya az OSM közreműködők és felhasználók közössége.
+  osm-kerala-github:
+    description: "Kódolj velünk: {url}"
   osm-kerala-website:
     description: Segítünk az OpenStreetMap bővítésében és fejlesztésében Keralában.
-  osm-michigan-facebook-group:
-    name: '{community} Facebook csoport'
-    description: Beszélgetés a michigani térképezésről.
   osm-michigan-wiki:
-    description: '{community} Wiki oldal'
-  osm-ni:
-    name: MapaNica.net
-  OSM-Portland:
-    name: OpenStreetMap Portland
-  OSM-Portland-forum:
-    name: OpenStreetMap PDX Google Group
-  OSM-Rome-meetup:
-    name: Incontro Mappatori Romani
-  OSM-Seattle:
-    name: OpenStreetMap Seattle
-  OSM-SoCal:
-    name: OpenStreetMap Dél-Kalifornia
-  OSM-South-Bay:
-    name: OSM South Bay
-  OSM-Tampa-Bay:
-    name: OpenStreetMap Tampa Bay
+    description: "{community} Wiki oldal"
+  osm-ohio-wiki:
+    description: "{community} Wiki-oldal"
   OSM-Telegram:
-    description: 'Csatlakozz az OpenStreetMap Telegram globális szupercsoporthoz itt: {url}'
+    description: "Csatlakozz az OpenStreetMap Telegram globális szupercsoporthoz itt: {url}"
   osm-toronto-meetup:
     description: Térképezők és OpenStreetMap felhasználók Toronto területén
   osm-tw:
     description: Segítünk az OpenStreetMap bővítésében és fejlesztésében Tajvanon.
-  OSM-Utah:
-    name: OpenStreetMap Utah
-  OSM-Wyoming:
-    name: OpenStreetMap Wyoming
+  OSM-US-Slack:
+    description: "Mindenkit szeretettel várunk! Jelentkezzen ezen az oldalon: {signupUrl}"
   OSMF:
     name: OpenStreetMap Alapítvány
     description: Az OSMF az OpenStreetMap projektet segítő angol nonprofit szervezet
   ph-facebook-group:
-    name: '{community} Facebook csoport'
-  PHXGeo-meetup:
-    name: PHXGeo Meetup
-  PHXGeo-twitter:
-    name: PHXGeo Twitter
-    description: 'Kövess minket Twitteren: {url}'
+    name: "{community} Facebook csoport"
+  sg-wiki:
+    description: "{community} Wiki-oldal"
+  si-ljubljana-wiki:
+    description: "{community} Wiki-oldal"
+  si-wiki:
+    description: "{community} Wiki-oldal"
   tn-facebook-group:
-    name: '{community} Facebook csoport'
+    name: "{community} Facebook csoport"
   tw-slack:
-    description: 'Mindenkit szeretettel várunk! Jelentkezzen ezen az oldalon: {signupUrl}'
+    description: "Mindenkit szeretettel várunk! Jelentkezzen ezen az oldalon: {signupUrl}"
   tw-wiki:
-    description: 'Minden, amit a tajvani térképezésről tudni kell: {url}'
+    description: "Minden, amit a tajvani térképezésről tudni kell: {url}"
   tz-website:
     description: OSM szolgáltatásokat és információkat nyújt a helyi közösség számára Tanzániában.
   ua-github:
@@ -495,48 +313,9 @@ hu:
   ua-osm:
     description: OpenStreetMap weboldal Ukrajnában
   uk-london-wiki:
-    description: '{community} Wiki oldal'
+    description: "{community} Wiki oldal"
   us-massachusetts-mailinglist:
     name: Talk-us-massachusetts levelezőlista
     description: E-mail levelezőlista a massachusettsi OSM közösség számára
-  us-newyork-mailinglist:
-    name: Talk-us-newyork levelezőlista
-    description: E-mail levelezőlista a New York állambeli OSM közösség számára
-  uy-irc:
-    extendedDescription: 'Join #{account} on irc.freenode.org'
-  vn-mailinglist:
-    description: Levelezőlista az OpenStreetMap-ről Vietnámban vagy vietnámi nyelven
-  YerCizenler-TR:
-    name: Yer Çizenler
-  ym-Abia-State-University:
-    name: AbsuMappersTeam
-  ym-African-Methodist-Episcopal-University:
-    name: YouthMappers-AMEU
-  ym-Ahmadu-Bello-University:
-    name: ABU Geomappers
-  ym-Ardhi-University:
-    name: ARU Mapper
-  ym-Busitema-University:
-    name: Good Mappers
-  ym-Clemson-University:
-    name: Clemson Mappers
-  ym-CURAT:
-    name: YouthMappers CURAT
-  ym-Dedan-Kimathi-University-of-Technology:
-    name: GDEV
-  ym-Dhaka-College:
-    description: YouthMappers chapter at Dhaka College
-  ym-Politecnico-di-Milano:
-    name: PoliMappers
-  ym-Queen-Mary-University-of-London:
-    name: Queen Mary YouthMappers
-  ym-Sherubtse-College:
-    name: Geographical Society
-  ym-Sokoine-University-of-Agriculture:
-    name: SMCoSE YouthMappers
-  ym-St.-Mawaggali-Trades-Training-Institute:
-    name: MawaggaliMappers
-  ym-Stella-Maris-Polytechnic:
-    name: YouthMappers-SMP
-  ym-SUNY-at-Fredonia:
-    name: Geoventurers
+  vn-wiki:
+    description: "{community} Wiki-oldal"

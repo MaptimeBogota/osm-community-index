@@ -1,27 +1,37 @@
 sl:
-  OSM-MY-facebook:
-    description: Za klepet o čemerkoli v zvezi z OpenStreetMap!
-  OSM-Twitter:
-    name: OpenStreetMap Twitter
-  OSM-help:
-    name: Pomoč OpenStreetMap
+  _communities:
+    openstreetmap: OpenStreetMap
+    openstreetmapaachen: OpenStreetMap Aachen
+    openstreetmapafghanistan: OpenStreetMap Afganistan
+    openstreetmapafrica: OpenStreetMap Afrika
+    openstreetmapalbania: OpenStreetMap Albanija
+    openstreetmapargentina: OpenStreetMap Argentina
+    openstreetmaparmenia: OpenStreetMap Armenija
+    openstreetmapasia: OpenStreetMap Azija
+    openstreetmapaustria: OpenStreetMap Avtrija
+    openstreetmapbangladesh: OpenStreetMap Bangladeš
+    openstreetmapsingapore: OpenStreetMap Singapur
+    openstreetmapslovenia: OpenStreetMap Slovenija
+    openstreetmapsomalia: OpenStreetMap Somalija
+    openstreetmapsouthafrica: OpenStreetMap Južna Afrika
+    openstreetmapsouthsudan: OpenStreetMap Južni Sudan
+    openstreetmapsrilanka: OpenStreetMap Šrilanka
+    openstreetmapsudan: OpenStreetMap Sudan
+    openstreetmapsweden: OpenStreetMap Švedska
+    openstreetmapswitzerland: OpenStreetMap Švica
+    openstreetmaptaiwan: OpenStreetMap Tajvan
+    openstreetmaptanzania: OpenStreetMap Tanzanija
+    openstreetmapthailand: OpenStreetMap Tajska
+    openstreetmapukraine: OpenStreetMap Ukrajina
+    openstreetmapuruguay: OpenStreetMap Urugvaj
+    openstreetmapus: OpenStreetMap ZDA
+    openstreetmapuzbekistan: OpenStreetMap Uzbekistan
+    openstreetmapvenezuela: OpenStreetMap Venezuela
+    openstreetmapvietnam: OpenStreetMap Vietnam
+    openstreetmapwarszawa: OpenStreetMap Varšava
+    openstreetmapwesternsahara: OpenStreetMap Zahodna Sahara
+    openstreetmapzambia: OpenStreetMap Zambija
+    openstreetmapzimbabwe: OpenStreetMap Zimbabve
+    swissopenstreetmap: OpenStreetMap Švica
   OSMF:
     name: Fundacija OpenStreetMap
-  be-irc:
-    description: 'Pridružite se #osmbe na irc.oftc.net (vrata 6667)'
-  cape-coast-youthmappers:
-    description: 'Sledi nam na Twitterju: {url}'
-  osm-gh-facebook:
-    name: OpenStreetMap Ghana na Facebooku
-    description: Facebook skupina za ljudi, ki jih zanima OpenStreetMap
-  osm-gh-twitter:
-    name: OpenStreetMap Ghana na Twitterju
-    description: 'Sledite nam na Twitterju: {url}'
-  osm-mg-facebook:
-    name: Facebook skupina OpenStreetMap Madagaskar
-  si-forum:
-    name: Slovenski forum OpenStreetMap
-    description: Forum skupnosti OpenStreetMap v Sloveniji
-  si-mailinglist:
-    name: Slovenski dopisni seznam OpenStreetMap
-    description: Dopisni seznam slovenske skupnosti OpenStreetMap

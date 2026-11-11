@@ -1,0 +1,17 @@
+{
+  "id": "co-wiki",
+  "type": "wiki",
+  "account": "ES:Colombia",
+  "locationSet": {"include": ["co"]},
+  "languageCodes": ["es"],
+  "order": 14,
+  "strings": {
+    "community": "OSM Colombia",
+    "communityID": "osmcolombia",
+    "name": "Wiki page with documentation on the Colombia mapping project.",
+    "description": "Documentation on everything related to OpenStreetMap in Colombia"
+  },
+  "contacts": [
+    {"name": "Contacto Colombia", "email": "colombia@osm.lat"}
+  ]
+}

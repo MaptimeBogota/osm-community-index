@@ -1,6 +1,5 @@
 bn:
   _communities:
-    openstreetmap: OpenStreetMap
     openstreetmapafghanistan: OpenStreetMap আফগানিস্তান
     openstreetmapafrica: OpenStreetMap আফ্রিকা
     openstreetmapalba: OpenStreetMap আলবা
@@ -11,5 +10,3 @@ bn:
     openstreetmapaustria: OpenStreetMap অস্ট্রিয়া
     openstreetmapbahia: OpenStreetMap বাহাই
     openstreetmapbangladesh: OpenStreetMap বাংলাদেশ
-  cape-coast-youthmappers:
-    description: 'টুইটারে আমাদের অনুসরণ করুন: {url}'

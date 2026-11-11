@@ -1,0 +1,12 @@
+{
+  "id": "fi-discourse",
+  "type": "discourse",
+  "account": "fi",
+  "locationSet": {"include": ["fi"]},
+  "languageCodes": ["fi"],
+  "order": 4,
+  "strings": {
+    "community": "OpenStreetMap Finland",
+    "communityID": "openstreetmapfinland"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ivides_youtube",
+  "type": "youtube",
+  "account": "UCJmRe14-B0ubas3IRveF22g",
+  "locationSet": {"include": ["rio_de_janeiro.geojson"]},
+  "languageCodes": ["pt"],
+  "strings": {
+    "community": "Mapeadores IVIDES",
+    "communityID": "mapeadoresivides"
+  },
+  "contacts": [
+    {
+      "name": "Raquel Dezidério Souto, Dr.",
+      "email": "ym.ufrj@gmail.com"
+    }
+  ]
+}

@@ -1,15 +1,14 @@
 {
   "id": "co-twitter",
-  "type": "twitter",
-  "account": "OpenStreetMapCo",
+  "type": "x",
+  "account": "OSM_Colombia",
   "locationSet": {"include": ["co"]},
   "languageCodes": ["es"],
-  "order": 3,
+  "order": 9,
   "strings": {
-    "community": "OpenStreetMap Colombia",
-    "communityID": "openstreetmapcolombia"
-  },
-  "contacts": [
-    {"name": "Fredy Rivera", "email": "fredyrivera@gmail.com"}
-  ]
+    "community": "OSM Colombia",
+    "communityID": "osmcolombia",
+    "name": "Community {community} on x-Twitter",
+    "description": "Publications on community activities or information"
+  }
 }

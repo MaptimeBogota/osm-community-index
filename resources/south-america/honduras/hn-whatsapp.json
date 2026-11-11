@@ -1,0 +1,18 @@
+{
+  "id": "hn-whatsapp",
+  "type": "whatsapp",
+  "account": "DAHuLJnew1A6bTaYVPA4fX",
+  "locationSet": {"include": ["hn"]},
+  "languageCodes": ["es"],
+  "order": 1,
+  "strings": {
+    "community": "OpenStreetMap Honduras",
+    "communityID": "openstreetmaphonduras"
+  },
+  "contacts": [
+    {
+      "name": "comunidadesmohonduras",
+      "email": "comunidadesmohonduras@gmail.com"
+    }
+  ]
+}

@@ -3,11 +3,11 @@
   "type": "osm",
   "locationSet": {"include": ["hu"]},
   "languageCodes": ["hu"],
-  "order": 1,
+  "order": -3,
   "strings": {
     "community": "OpenStreetMap Hungary",
     "communityID": "openstreetmaphungary",
-    "description": "We help grow and improve OpenStreetMap in Hungary.",
+    "description": "The website of the Hungarian OpenStreetMap community",
     "url": "https://www.openstreetmap.hu/"
   }
 }

@@ -7,6 +7,7 @@
     "target": "ESNext",
     "module": "Preserve",
     "moduleDetection": "force",
+    "types": ["bun"],
     // Bundler mode
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,

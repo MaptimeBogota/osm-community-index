@@ -112,8 +112,10 @@ function collectDefaults(): OciDefaults {
  *
  * For each file this:
  * - parses the GeoJSON (JSON5 is tolerated),
- * - enforces polygon winding order and coordinate precision,
  * - unwraps single-feature `FeatureCollection`s (geojson.io produces these),
+ * - checks that the result is a single `Feature` with a `Polygon` or
+ *   `MultiPolygon` geometry,
+ * - enforces polygon winding order and coordinate precision,
  * - warns when the polygon is small enough that a circular include location
  *   would be a better fit,
  * - assigns the lowercased filename as the feature `id`,
@@ -225,7 +227,8 @@ async function collectFeatures(): Promise<GeoJSON.Feature[]> {
  * Gathers and validates resource files from `./resources/**\/*.json`.
  *
  * For each file this:
- * - parses the JSON (JSON5 is tolerated),
+ * - parses the JSON (JSON5 is tolerated) and validates it against
+ *   `schema/resource.json`,
  * - resolves the `locationSet` via LocationConflation to confirm it produces a
  *   non-empty feature,
  * - extracts an `account` from well-known URL formats (see {@link convertURLs}),
@@ -233,7 +236,7 @@ async function collectFeatures(): Promise<GeoJSON.Feature[]> {
  *   item + defaults,
  * - derives a `communityID` slug from the `community` string (if any),
  * - rewrites the resource with a canonical property order,
- * - validates against `schema/resource.json`,
+ * - validates the canonical form against `schema/resource.json` again,
  * - writes the canonical form back to disk,
  * - checks for duplicate resource ids,
  * - validates any `events[].when` dates and collects `i18n=true` events into
